@@ -8,4 +8,4 @@
 
 # GANs
 
-* [Pytorch GAN Zoo (FAIR)] (https://github.com/facebookresearch/pytorch_GAN_zoo/blob/master/README.md) 
+* [Pytorch GAN Zoo (FAIR)](https://github.com/facebookresearch/pytorch_GAN_zoo/blob/master/README.md) 
