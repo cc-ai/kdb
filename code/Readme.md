@@ -5,3 +5,7 @@
     * https://github.com/proog128/GSVPanoDepth.js
     * https://stackoverflow.com/questions/48219613/height-elevation-of-a-pixel-from-ground-in-google-street-view
     * https://github.com/wearenocomputer/ofxGSVDepthmap
+
+# GANs
+
+* [Pytorch GAN Zoo (FAIR)] (https://github.com/facebookresearch/pytorch_GAN_zoo/blob/master/README.md) 
