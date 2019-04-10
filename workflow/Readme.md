@@ -1,6 +1,6 @@
-New with Github -> [How to get started](/workflow/gettingstarted.md)
-
 # Github
+
+(New with Github ? -> [How to get started w/ Github, cc-ai style](/workflow/gettingstarted.md))
 
 Code repositories depend on the `cc-ai` *organization*.
 
