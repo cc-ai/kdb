@@ -1,4 +1,6 @@
-# Github
+# Workflow
+
+## Github
 
 (New with Github ? -> [How to get started w/ Github, cc-ai style](/workflow/gettingstarted.md))
 
@@ -14,3 +16,7 @@ The [CCAI - Workflow](https://github.com/orgs/cc-ai/projects/1) *project* (**CWP
 Use CWP as much as you can to better communicate and sync with the rest of the team.
 
 For now it is a centralized project ; if one or more other repositories grows we'll simply create another one there. CWP is for the whole CC-AI team, not dealing with particular issues for a project. We'll learn as we go, if you want to modify this workflow, do open an issue in [kdb](https://github.com/cc-ai/kdb)
+
+## Slack
+
+To Do
