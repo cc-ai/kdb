@@ -1,3 +1,5 @@
+New with Github -> [How to get started](/workflow/gettingstarted.md)
+
 # Github
 
 Code repositories depend on the `cc-ai` *organization*.
