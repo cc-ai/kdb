@@ -1,1 +1,3 @@
-# Getting Started
+# Github at `cc-ai` : getting started 
+
+TBD
