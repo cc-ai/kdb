@@ -9,3 +9,7 @@
 # GANs
 
 * [Pytorch GAN Zoo (FAIR)](https://github.com/facebookresearch/pytorch_GAN_zoo/blob/master/README.md) 
+
+# ML
+
+* [Awesome Data Science with Python](https://github.com/r0f1/datascience) projects for every kind of data analysis / processing / modeling / inference etc.
