@@ -13,7 +13,11 @@ if __name__ == "__main__":
             if "  - name" in l:
                 name = l.split("name:")[-1].strip()
                 color = lines[i + 1].split("color:")[-1].strip()
-                shields.append(f"https://img.shields.io/badge/{name}-{color}.svg")
+                shields.append(
+                    f"https://img.shields.io/badge/{name}-{color}.svg".replace(
+                        " ", "%20"
+                    )
+                )
                 names.append(name)
                 i += 2
             else:

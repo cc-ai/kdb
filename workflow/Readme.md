@@ -23,9 +23,9 @@ Some guidelines to understand **issues and labels**
 
 * Assign people to issues
   * If it concerns the whole team, do put it in [CWP](https://github.com/orgs/cc-ai/projects/2)
-* Use the ![][reminder] labels to trigger slack messages in order to remind assignees (short = 24h, long = 1 week)
+* Use the **reminder** labels to trigger slack messages in order to remind assignees (![][reminder (short)] = 24h, ![][reminder (long)] = 1 week)
 * Use the ![][work in progress] label to acknowledge the issue and state you've started working on it
-* Use the ![][priority] tags (high or low)
+* Use the **priority** tags (![][high priority] or ![][low priority])
 * Label as ![][meta] issues relating to the overall CC-AI project and its management
 * Use the ![][keep in mind] label to signal thoughts you've had which may someday be relevant
 * Even if you're not *assigned* to an issue, if it bears the ![][good first issue] tag you probably can still do something
@@ -100,19 +100,19 @@ To Do
 
 
 
-
 [bug]: https://img.shields.io/badge/bug-d73a4a.svg
 [critical]: https://img.shields.io/badge/critical-FF0000.svg
 [duplicate]: https://img.shields.io/badge/duplicate-cfd3d7.svg
 [enhancement]: https://img.shields.io/badge/enhancement-a2eeef.svg
-[good first issue]: https://img.shields.io/badge/good first issue-7057ff.svg
-[help wanted]: https://img.shields.io/badge/help wanted-008672.svg
-[high priority]: https://img.shields.io/badge/high priority-16f9c1.svg
+[good first issue]: https://img.shields.io/badge/good%20first%20issue-7057ff.svg
+[help wanted]: https://img.shields.io/badge/help%20wanted-008672.svg
+[high priority]: https://img.shields.io/badge/high%20priority-16f9c1.svg
 [invalid]: https://img.shields.io/badge/invalid-e4e669.svg
-[keep in mind]: https://img.shields.io/badge/keep in mind-c0cef7.svg
-[low priority]: https://img.shields.io/badge/low priority-efff8c.svg
+[keep in mind]: https://img.shields.io/badge/keep%20in%20mind-c0cef7.svg
+[low priority]: https://img.shields.io/badge/low%20priority-efff8c.svg
 [meta]: https://img.shields.io/badge/meta-202ea5.svg
 [question]: https://img.shields.io/badge/question-d876e3.svg
-[reminder (long)]: https://img.shields.io/badge/reminder (long)-fc9fc7.svg
-[reminder (short)]: https://img.shields.io/badge/reminder (short)-e466ab.svg
+[reminder (long)]: https://img.shields.io/badge/reminder%20(long)-fc9fc7.svg
+[reminder (short)]: https://img.shields.io/badge/reminder%20(short)-e466ab.svg
 [wontfix]: https://img.shields.io/badge/wontfix-ffffff.svg
+[work in progress]: https://img.shields.io/badge/work%20in%20progress-ababab.svg

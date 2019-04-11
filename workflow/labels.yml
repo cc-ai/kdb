@@ -1,4 +1,7 @@
 labels:
+  - name: work in progress
+    color: ababab
+    description: ""
   - name: bug
     color: d73a4a
     description: Something isn't working
