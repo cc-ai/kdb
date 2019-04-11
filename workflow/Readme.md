@@ -17,6 +17,22 @@ Use CWP as much as you can to better communicate and sync with the rest of the t
 
 For now it is a centralized project ; if one or more other repositories grows we'll simply create another one there. CWP is for the whole CC-AI team, not dealing with particular issues for a project. We'll learn as we go, if you want to modify this workflow, do open an issue in [kdb](https://github.com/cc-ai/kdb)
 
+## Good practices
+
+Some guidelines to understand **issues and labels**
+
+* Assign people to issues
+  * If it concerns the whole team, do put it in [CWP](https://github.com/orgs/cc-ai/projects/2)
+* Use the `reminder` labels to trigger slack messages in order to remind assignees (short = 24h, long = 1 week)
+* Use the `work in progress` label to acknowledge the issue and state you've started working on it
+* Use the `priority` tags (high or low)
+* Label as `meta` issues relating to the overall CC-AI project and its management
+* Use the `keep in mind` label to signal thoughts you've had which may someday be relevant
+* Even if you're not *assigned* to an issue, if it bears the `good first issue` tag you probably can still do something
+* The `critical` label should never be used. Except for extraordinary issues.
+* **Close** issues when resolved. They may be re-openned later on. You may also **lock** a conversation if the decision is final.
+* **Suggest improvements** to these guidelines and practices
+
 ### Automation
 
 #### Labels
