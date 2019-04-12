@@ -11,7 +11,7 @@ if __name__ == "__main__":
         while i < len(lines):
             l = lines[i]
             if "  - name" in l:
-                name = l.split("name:")[-1].strip()
+                name = l.split("name:")[-1].strip().replace('"', "")
                 color = lines[i + 1].split("color:")[-1].strip()
                 shields.append(
                     f"https://img.shields.io/badge/{name}-{color}.svg".replace(
