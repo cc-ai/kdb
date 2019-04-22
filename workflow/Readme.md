@@ -68,7 +68,6 @@ It works like this:
 To Do
 
 
-
 [bug]: https://img.shields.io/badge/bug-d73a4a.svg
 [critical]: https://img.shields.io/badge/critical-FF0000.svg
 [duplicate]: https://img.shields.io/badge/duplicate-cfd3d7.svg
@@ -84,4 +83,11 @@ To Do
 [reminder (long)]: https://img.shields.io/badge/reminder%20(long)-fc9fc7.svg
 [reminder (short)]: https://img.shields.io/badge/reminder%20(short)-e466ab.svg
 [wontfix]: https://img.shields.io/badge/wontfix-ffffff.svg
-[work in progress]: https://img.shields.io/badge/work%20in%20progress-ababab.svg
+[work in progress]: https://img.shields.io/badge/work%20in%20progress-ededed.svg
+[domain:behavioral]: https://img.shields.io/badge/domain:behavioral-f4b7c4.svg
+[domain:data]: https://img.shields.io/badge/domain:data-bfdadc.svg
+[domain:dev]: https://img.shields.io/badge/domain:dev-d4c5f9.svg
+[domain:econ]: https://img.shields.io/badge/domain:econ-036a77.svg
+[domain:ml]: https://img.shields.io/badge/domain:ml-f260b8.svg
+[domain:other]: https://img.shields.io/badge/domain:other-e0a87f.svg
+[domain:ux]: https://img.shields.io/badge/domain:ux-fccfbd.svg

@@ -1,6 +1,8 @@
 from pathlib import Path
 
-if __name__ == "__main__":
+
+def main():
+    print("Generating Shields")
     labels_path = Path() / "labels.yml"
     if labels_path.exists():
         with labels_path.open() as f:
@@ -12,7 +14,7 @@ if __name__ == "__main__":
             l = lines[i]
             if "  - name" in l:
                 name = l.split("name:")[-1].strip().replace('"', "")
-                color = lines[i + 1].split("color:")[-1].strip()
+                color = lines[i + 1].split("color:")[-1].strip().replace('"', "")
                 shields.append(
                     f"https://img.shields.io/badge/{name}-{color}.svg".replace(
                         " ", "%20"
@@ -26,3 +28,7 @@ if __name__ == "__main__":
 
         with open(Path() / "shields.txt", "w") as f:
             f.write("\n".join(shields_lines))
+
+
+if __name__ == "__main__":
+    main()

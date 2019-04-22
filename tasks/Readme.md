@@ -2,7 +2,7 @@
 
 Here is how we see the project could be split indo domains. **Obviously** there are overlaps and you should not read this compartmentalised silos, rather as contributing guidelines for you to find where and how you want to be part of the effort
 
-|             Domain              | Description                                                                                                                 |                                                      Issues                                                      |
+|             Domain              | Description                                                                                                                 |                                                      Domain Issues                                                      |
 | :-----------------------------: | :-------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------: |
 |          [Data](data)           | Help us gather and improve our data sets                                                                                    |       [![][domain:data]](https://github.com/cc-ai/kdb/issues?q=is%3Aopen+is%3Aissue+label%3Adomain%3Adata)       |
 |     [Machine Learning](ml)      | We need to explore architectures, train models, compare performance, advance SOTA                                           |         [![][domain:ml]](https://github.com/cc-ai/kdb/issues?q=is%3Aopen+is%3Aissue+label%3Adomain%3Aml)         |
@@ -22,7 +22,7 @@ Use the [Tasks Project](https://github.com/cc-ai/kdb/projects/3) to track advanc
 [domain:behavioral]: https://img.shields.io/badge/domain:behavioral-f4b7c4.svg
 [domain:data]: https://img.shields.io/badge/domain:data-bfdadc.svg
 [domain:dev]: https://img.shields.io/badge/domain:dev-d4c5f9.svg
-[domain:econ]: https://img.shields.io/badge/domain:econ-1ebf94.svg
+[domain:econ]: https://img.shields.io/badge/domain:econ-036a77.svg
 [domain:ml]: https://img.shields.io/badge/domain:ml-f260b8.svg
 [domain:other]: https://img.shields.io/badge/domain:other-e0a87f.svg
 [domain:ux]: https://img.shields.io/badge/domain:ux-fccfbd.svg
@@ -39,4 +39,4 @@ Use the [Tasks Project](https://github.com/cc-ai/kdb/projects/3) to track advanc
 [reminder (long)]: https://img.shields.io/badge/reminder%20(long)-fc9fc7.svg
 [reminder (short)]: https://img.shields.io/badge/reminder%20(short)-e466ab.svg
 [wontfix]: https://img.shields.io/badge/wontfix-ffffff.svg
-[work in progress]: https://img.shields.io/badge/work%20in%20progress-ababab.svg
+[work in progress]: https://img.shields.io/badge/work%20in%20progress-ededed.svg

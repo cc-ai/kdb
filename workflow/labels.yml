@@ -1,92 +1,92 @@
 labels:
-  - name: "domain:dev"
-    color: d4c5f9
-    description: ""
-
   - name: "bug"
-    color: d73a4a
+    color: "d73a4a"
     description: "Something isn't working"
 
   - name: "critical"
-    color: FF0000
+    color: "FF0000"
     description: "WOWOWOW This needs fixing now"
 
   - name: "domain:behavioral"
-    color: f4b7c4
+    color: "f4b7c4"
     description: ""
 
   - name: "domain:data"
-    color: bfdadc
+    color: "bfdadc"
+    description: ""
+
+  - name: "domain:dev"
+    color: "d4c5f9"
     description: ""
 
   - name: "domain:econ"
-    color: 1ebf94
+    color: "036a77"
     description: ""
 
   - name: "domain:ml"
-    color: f260b8
+    color: "f260b8"
     description: ""
 
   - name: "domain:other"
-    color: e0a87f
+    color: "e0a87f"
     description: ""
 
   - name: "domain:ux"
-    color: fccfbd
+    color: "fccfbd"
     description: ""
 
   - name: "duplicate"
-    color: cfd3d7
+    color: "cfd3d7"
     description: "This issue or pull request already exists"
 
   - name: "enhancement"
-    color: a2eeef
+    color: "a2eeef"
     description: "New feature or request"
 
   - name: "good first issue"
-    color: 7057ff
+    color: "7057ff"
     description: "Good for newcomers"
 
   - name: "help wanted"
-    color: 008672
+    color: "008672"
     description: "Extra attention is needed"
 
   - name: "high priority"
-    color: 16f9c1
+    color: "16f9c1"
     description: ""
 
   - name: "invalid"
-    color: e4e669
+    color: "e4e669"
     description: "This doesn't seem right"
 
   - name: "keep in mind"
-    color: c0cef7
+    color: "c0cef7"
     description: "Random ideas we ought to keep in mind"
 
   - name: "low priority"
-    color: efff8c
+    color: "efff8c"
     description: ""
 
   - name: "meta"
-    color: 202ea5
+    color: "202ea5"
     description: "Things about the cc-ai workflow and project management"
 
   - name: "question"
-    color: d876e3
+    color: "d876e3"
     description: "Further information is requested"
 
   - name: "reminder (long)"
-    color: fc9fc7
+    color: "fc9fc7"
     description: "Creates a Slack reminder if issue is 7 days+ old"
 
   - name: "reminder (short)"
-    color: e466ab
+    color: "e466ab"
     description: "Creates a Slack reminder if issue is 24h+ old"
 
   - name: "wontfix"
-    color: ffffff
+    color: "ffffff"
     description: "This will not be worked on"
 
   - name: "work in progress"
-    color: ababab
+    color: "ededed"
     description: ""
