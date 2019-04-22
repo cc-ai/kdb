@@ -1,4 +1,6 @@
-# Acquisition
+# Data 
+
+## Acquisition
 
 In order to train the GANs we need to create a diverse dataset of places (houses, buildings, countryside and city etc.) which is also **open** (free of copyrights), showing places before and after an extreme climate event. 
 
@@ -8,14 +10,14 @@ As an **MVP** we have started with **floods**. We have gone through most major c
 
 Now we need to improve and augment this dataset. We need to either find new open data sources, or acquire (buy) images. Photographers/Media, Governments/Emergency Agencies and Insurance companies may be leveraged.
 
-# Labeling/Segmentation
+## Labeling/Segmentation
 
 Recent advances (SPADE, Unsupervised Attention-guided Image-to-Image Translation etc. ) demonstrate how GANs can leverage segmentation information in order to generate locally-relevant features. In order to be able to explore such approaches, we need to segment (label pixel-wise) our images. 
 
 This can be done either manually (if the guidelines are well defined) or automatically, using existing models (e.g. DeepLab).The issue with existing models is that they are not trained on damaged houses with flooded streets and floating cars, so some fine-tuning or even retraining is needed. This brings us back to manually labeling data.
 
 
-# Simulation
+## Simulation
 
 As explained above, the image data that the project needs is scarce. On the other part, relaxing one of our constraints (images being real) could help us gather more data. Simulated data could help in a variety of approaches:
 
