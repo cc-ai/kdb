@@ -19,6 +19,14 @@ For now it is a centralized project ; if one or more other repositories grows we
 
 ## Good practices
 
+### Git
+
+Read through [these commit guidelines](https://github.com/RomuloOliveira/commit-messages-guide) (~10 min) as they will help us work together better. A little more advanced content can be found [here - it walks you though the differences between merging and rebasing branches](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
+
+Also if you like Github from the command line, checkout Github's own too: [`hub`](https://github.com/github/hub)
+
+### Issues and Labels
+
 Some guidelines to understand **issues and labels**
 
 * Assign people to issues
