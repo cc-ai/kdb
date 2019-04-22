@@ -1,40 +1,22 @@
 # CCAI Task distribution
 
-Here is how we see the project could be split indo domains. **Obviously** there are overlaps and you should not read this compartmentalised silos, rather as contributing guidelines for you to find where and how you want to be part of the effort:
+Here is how we see the project could be split indo domains. **Obviously** there are overlaps and you should not read this compartmentalised silos, rather as contributing guidelines for you to find where and how you want to be part of the effort
 
-- [Data](data)
-  - Help us gather and improve our data sets
-- [Machine Learning](ml)
-  - We need to explore architectures, train models, compare performance, advance SOTA
-- [Economic Modeling](econ)
-  - How to chose the best actions to suggest to users so as to maximize their impact
-- [User Research (UX)](ux)
-  - Who are our users? How to best convince them to take action? How to present our work?
-- [Web Development](dev)
-  - Front and Back ends
-- [Behavioral Sciences](behavior)
-  - What emotions do we want to trigger? How do we measure the overall system efficiency? This target is not diffenrentiable...
-- [Other Initiatives](other)
-  - Everyone's welcome to add their ideas! Like a Clilmate Change Chatbot or IR-based systems
-
-Use the `domain:` tags to track issuse:
+|             Domain              | Description                                                                                                                 |                                                      Issues                                                      |
+| :-----------------------------: | :-------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------: |
+|          [Data](data)           | Help us gather and improve our data sets                                                                                    |       [![][domain:data]](https://github.com/cc-ai/kdb/issues?q=is%3Aopen+is%3Aissue+label%3Adomain%3Adata)       |
+|     [Machine Learning](ml)      | We need to explore architectures, train models, compare performance, advance SOTA                                           |         [![][domain:ml]](https://github.com/cc-ai/kdb/issues?q=is%3Aopen+is%3Aissue+label%3Adomain%3Aml)         |
+|    [Economic Modeling](econ)    | How to chose the best actions to suggest to users so as to maximize their impact                                            |       [![][domain:econ]](https://github.com/cc-ai/kdb/issues?q=is%3Aopen+is%3Aissue+label%3Adomain%3Aecon)       |
+|    [User Research (UX)](ux)     | Who are our users? How to best convince them to take action? How to present our work?                                       |         [![][domain:ux]](https://github.com/cc-ai/kdb/issues?q=is%3Aopen+is%3Aissue+label%3Adomain%3Aux)         |
+|                                 |
+|     [Web Development](dev)      | Front and Back ends                                                                                                         |        [![][domain:dev]](https://github.com/cc-ai/kdb/issues?q=is%3Aopen+is%3Aissue+label%3Adomain%3Adev)        |
+| [Behavioral Sciences](behavior) | What emotions do we want to trigger? How do we measure the overall system efficiency? This target is not diffenrentiable... | [![][domain:behavioral]](https://github.com/cc-ai/kdb/issues?q=is%3Aopen+is%3Aissue+label%3Adomain%3Abehavioral) |
+|   [Other Initiatives](other)    | Everyone's welcome to add their ideas! Like a Clilmate Change Chatbot or IR-based systems                                   |      [![][domain:other]](https://github.com/cc-ai/kdb/issues?q=is%3Aopen+is%3Aissue+label%3Adomain%3Aother)      |
 
 
-[![][domain:data]](https://github.com/cc-ai/kdb/issues?q=is%3Aopen+is%3Aissue+label%3Adomain%3Adata)
+Use the `domain:` tags to track issuses and find out where you can help
 
-[![][domain:ml]](https://github.com/cc-ai/kdb/issues?q=is%3Aopen+is%3Aissue+label%3Adomain%3Aml)
-
-[![][domain:econ]](https://github.com/cc-ai/kdb/issues?q=is%3Aopen+is%3Aissue+label%3Adomain%3Aecon)
-
-[![][domain:ux]](https://github.com/cc-ai/kdb/issues?q=is%3Aopen+is%3Aissue+label%3Adomain%3Aux)
-
-[![][domain:dev]](https://github.com/cc-ai/kdb/issues?q=is%3Aopen+is%3Aissue+label%3Adomain%3Adev)
-
-[![][domain:behavioral]](https://github.com/cc-ai/kdb/issues?q=is%3Aopen+is%3Aissue+label%3Adomain%3Abehavioral)
-
-[![][domain:other]](https://github.com/cc-ai/kdb/issues?q=is%3Aopen+is%3Aissue+label%3Adomain%3Aother)
-
-And the [Tasks Project](https://github.com/cc-ai/kdb/projects/3) to track advancement of each domain.
+Use the [Tasks Project](https://github.com/cc-ai/kdb/projects/3) to track advancement of each domain.
 
 [bug]: https://img.shields.io/badge/bug-d73a4a.svg
 [critical]: https://img.shields.io/badge/critical-FF0000.svg
