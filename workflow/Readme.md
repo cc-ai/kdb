@@ -31,9 +31,9 @@ Some guidelines to understand **issues and labels**
 
 * Assign people to issues
   * If it concerns the whole team, do put it in [CWP](https://github.com/orgs/cc-ai/projects/2)
-* Use the **reminder** labels to trigger slack messages in order to remind assignees 
+<!-- * Use the **reminder** labels to trigger slack messages in order to remind assignees 
   * ![][reminder (short)] = 24h
-  * ![][reminder (long)] = 1 week
+  * ![][reminder (long)] = 1 week -->
 * Use the ![][work in progress] label to acknowledge the issue and state you've started working on it
 * Use the **priority** tags (![][priority:high] or ![][priority:low])
 * Label as ![][meta] issues relating to the overall CC-AI project and its management
