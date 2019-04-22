@@ -1,6 +1,8 @@
+# Behavioral Sciences
+
 The project is based on research that has found that when people are given accurate depictions of how actions today affect outcomes tomorrow, they often change their behavior. However, as opposed to retirement savings, climate change awareness is difficult to translate into concrete actions. We would like someone to help supervise a summer intern who will look into the behavioral experimentation using our images.
 
-# Choice of expected emotional impact
+## Choice of expected emotional impact
 
 We therefore need to define:
 1. **Quantifiable behavior** that we can measure or quantify and that we can **target** via our tool
