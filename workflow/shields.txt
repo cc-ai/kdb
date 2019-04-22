@@ -1,5 +1,11 @@
 [bug]: https://img.shields.io/badge/bug-d73a4a.svg
 [critical]: https://img.shields.io/badge/critical-FF0000.svg
+[domain:behavioral]: https://img.shields.io/badge/domain:behavioral-f4b7c4.svg
+[domain:data]: https://img.shields.io/badge/domain:data-bfdadc.svg
+[domain:econ]: https://img.shields.io/badge/domain:econ-1ebf94.svg
+[domain:ml]: https://img.shields.io/badge/domain:ml-f260b8.svg
+[domain:other]: https://img.shields.io/badge/domain:other-e0a87f.svg
+[domain:ux]: https://img.shields.io/badge/domain:ux-fccfbd.svg
 [duplicate]: https://img.shields.io/badge/duplicate-cfd3d7.svg
 [enhancement]: https://img.shields.io/badge/enhancement-a2eeef.svg
 [good first issue]: https://img.shields.io/badge/good%20first%20issue-7057ff.svg
