@@ -18,7 +18,6 @@ Use the `domain:` tags to track issuses and find out where you can help
 Use the [Tasks Project](https://github.com/cc-ai/kdb/projects/3) to track advancement of each domain.
 
 [bug]: https://img.shields.io/badge/bug-d73a4a.svg
-[critical]: https://img.shields.io/badge/critical-FF0000.svg
 [domain:behavioral]: https://img.shields.io/badge/domain:behavioral-f4b7c4.svg
 [domain:data]: https://img.shields.io/badge/domain:data-bfdadc.svg
 [domain:dev]: https://img.shields.io/badge/domain:dev-d4c5f9.svg
@@ -30,13 +29,14 @@ Use the [Tasks Project](https://github.com/cc-ai/kdb/projects/3) to track advanc
 [enhancement]: https://img.shields.io/badge/enhancement-a2eeef.svg
 [good first issue]: https://img.shields.io/badge/good%20first%20issue-7057ff.svg
 [help wanted]: https://img.shields.io/badge/help%20wanted-008672.svg
-[high priority]: https://img.shields.io/badge/high%20priority-16f9c1.svg
 [invalid]: https://img.shields.io/badge/invalid-e4e669.svg
 [keep in mind]: https://img.shields.io/badge/keep%20in%20mind-c0cef7.svg
-[low priority]: https://img.shields.io/badge/low%20priority-efff8c.svg
 [meta]: https://img.shields.io/badge/meta-202ea5.svg
 [question]: https://img.shields.io/badge/question-d876e3.svg
 [reminder (long)]: https://img.shields.io/badge/reminder%20(long)-fc9fc7.svg
 [reminder (short)]: https://img.shields.io/badge/reminder%20(short)-e466ab.svg
 [wontfix]: https://img.shields.io/badge/wontfix-ffffff.svg
 [work in progress]: https://img.shields.io/badge/work%20in%20progress-ededed.svg
+[priority:critical]: https://img.shields.io/badge/priority:critical-FF0000.svg
+[priority:high]: https://img.shields.io/badge/priority:high-16f9c1.svg
+[priority:low]: https://img.shields.io/badge/priority:low-efff8c.svg

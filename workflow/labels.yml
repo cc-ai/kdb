@@ -3,10 +3,6 @@ labels:
     color: "d73a4a"
     description: "Something isn't working"
 
-  - name: "critical"
-    color: "FF0000"
-    description: "WOWOWOW This needs fixing now"
-
   - name: "domain:behavioral"
     color: "f4b7c4"
     description: ""
@@ -51,10 +47,6 @@ labels:
     color: "008672"
     description: "Extra attention is needed"
 
-  - name: "high priority"
-    color: "16f9c1"
-    description: ""
-
   - name: "invalid"
     color: "e4e669"
     description: "This doesn't seem right"
@@ -63,13 +55,21 @@ labels:
     color: "c0cef7"
     description: "Random ideas we ought to keep in mind"
 
-  - name: "low priority"
-    color: "efff8c"
-    description: ""
-
   - name: "meta"
     color: "202ea5"
     description: "Things about the cc-ai workflow and project management"
+
+  - name: "priority:critical"
+    color: "FF0000"
+    description: "WOWOWOW This needs fixing now"
+
+  - name: "priority:high"
+    color: "16f9c1"
+    description: ""
+
+  - name: "priority:low"
+    color: "efff8c"
+    description: ""
 
   - name: "question"
     color: "d876e3"
