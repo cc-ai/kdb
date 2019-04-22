@@ -1,4 +1,8 @@
 labels:
+  - name: "domain:dev"
+    color: d4c5f9
+    description: ""
+
   - name: "bug"
     color: d73a4a
     description: "Something isn't working"

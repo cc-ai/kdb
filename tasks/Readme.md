@@ -19,12 +19,20 @@ Here is how we see the project could be split indo domains. **Obviously** there 
 
 Use the `domain:` tags to track issuse:
 
-* [![][domain:behavioral]](https://github.com/cc-ai/kdb/issues?q=is%3Aopen+is%3Aissue+label%3Adomain%3Abehavioral)
-* [![][domain:data]](https://github.com/cc-ai/kdb/issues?q=is%3Aopen+is%3Aissue+label%3Adomain%3Adata)
-* [![][domain:ml]](https://github.com/cc-ai/kdb/issues?q=is%3Aopen+is%3Aissue+label%3Adomain%3Aml)
-* [![][domain:econ]](https://github.com/cc-ai/kdb/issues?q=is%3Aopen+is%3Aissue+label%3Adomain%3Aecon)
-* [![][domain:ux]](https://github.com/cc-ai/kdb/issues?q=is%3Aopen+is%3Aissue+label%3Adomain%3Aux)
-* [![][domain:other]](https://github.com/cc-ai/kdb/issues?q=is%3Aopen+is%3Aissue+label%3Adomain%3Aother)
+
+[![][domain:data]](https://github.com/cc-ai/kdb/issues?q=is%3Aopen+is%3Aissue+label%3Adomain%3Adata)
+
+[![][domain:ml]](https://github.com/cc-ai/kdb/issues?q=is%3Aopen+is%3Aissue+label%3Adomain%3Aml)
+
+[![][domain:econ]](https://github.com/cc-ai/kdb/issues?q=is%3Aopen+is%3Aissue+label%3Adomain%3Aecon)
+
+[![][domain:ux]](https://github.com/cc-ai/kdb/issues?q=is%3Aopen+is%3Aissue+label%3Adomain%3Aux)
+
+[![][domain:dev]](https://github.com/cc-ai/kdb/issues?q=is%3Aopen+is%3Aissue+label%3Adomain%3Adev)
+
+[![][domain:behavioral]](https://github.com/cc-ai/kdb/issues?q=is%3Aopen+is%3Aissue+label%3Adomain%3Abehavioral)
+
+[![][domain:other]](https://github.com/cc-ai/kdb/issues?q=is%3Aopen+is%3Aissue+label%3Adomain%3Aother)
 
 And the [Tasks Project](https://github.com/cc-ai/kdb/projects/3) to track advancement of each domain.
 
@@ -32,6 +40,7 @@ And the [Tasks Project](https://github.com/cc-ai/kdb/projects/3) to track advanc
 [critical]: https://img.shields.io/badge/critical-FF0000.svg
 [domain:behavioral]: https://img.shields.io/badge/domain:behavioral-f4b7c4.svg
 [domain:data]: https://img.shields.io/badge/domain:data-bfdadc.svg
+[domain:dev]: https://img.shields.io/badge/domain:dev-d4c5f9.svg
 [domain:econ]: https://img.shields.io/badge/domain:econ-1ebf94.svg
 [domain:ml]: https://img.shields.io/badge/domain:ml-f260b8.svg
 [domain:other]: https://img.shields.io/badge/domain:other-e0a87f.svg
