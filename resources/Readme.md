@@ -1,6 +1,6 @@
 # Shared Resources
 
-| Name                  | Description                                                                                         |
+| Link 🔗                 | Description  📋                                                                                       |
 | :-------------------- | :-------------------------------------------------------------------------------------------------- |
 | [code](code)         | Links to relevant resources about coding stuff: repos, libraries, tutorials etc.                    |
 | [data](data)         | Links to data sources                                                                               |

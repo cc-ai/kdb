@@ -1,6 +1,8 @@
-# CC-AI Shared Knowledge Database
+<h1 align="center">CC-AI Shared Knowledge Database</h1>
 
-## How to use
+<p align="center">🌎 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌍&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌏</p>
+
+## How to use 📃
 
 This repository is the CCAI project's knowledge database. We use it to:
 
@@ -8,33 +10,33 @@ This repository is the CCAI project's knowledge database. We use it to:
 * Distribute tasks according to specific [domains](/domains)
 * Manage the project ([workflow](/workflow))
 
-## Contributing
+## Contributing 🤝
 
-### About
+### About💡
 
 We cannot stress enough how **collaborative** and **open** this project should be. This means that you may (and should) bring to the discussion anything you believe can be improved, suggest modifications to the workflow and **share** resources.
 
 At first, it may seem pointless to just store a link as a line in this repository. But in the long run it will help the community a lot as nothing will be lost and it will be easy to refer new-comers to existing knowledge.
 
-### Issues
+### Issues 💥 
 
 We use this repository's [issues](https://github.com/cc-ai/kdb/issues) to discuss **everything**. Have a look at the [workflow](/workflow) to better understand how we use them.
 
 Keep in mind that both domain-specific issues (like questions/discussions about a GAN model or about a website feature) and meta issues (about how we manage this project, broken links, typos etc.) are relevant.
 
-### Getting started
+### Getting started ⚡️
 
-#### New to Github?
+#### New to Github? 🦎
 
 We have compiled a shor list of basic things for you to know in order to make the most out of Github without needing to become a software engineer first -> [**Github at `cc-ai`**](/workflow/gettingstarted.md)
 
-#### Experienced contributor
+#### Experienced contributor 🦖 
 
 The [workflow's `Readme`](/workflow) contains everything you need to know. Go through it at least once to get a feeling of how we want to work before you do your usual magic. Again, if you find some useless friction, open a `domain:meta` issue to discuss it.
 
 According to your background and skills, you will find the list of everything we need help with in [domains/](/domains) along with relevant issues
 
-## Contact
+## Contact ✉️
 
 
 This project is lead by Sasha Luccioni (@sashavor), Karthik Mukkavilli (@mukkavilli) and Victor Schmidt (@vict0rsch) from Mila (@Mila-iqai), oversought by [Yoshua Bengio](https://mila.quebec/en/yoshua-bengio/) and [Jennifer Chayes](https://www.microsoft.com/en-us/research/people/jchayes/).

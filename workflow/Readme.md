@@ -1,6 +1,6 @@
-# Workflow
+# Workflow 🌊
 
-## Github
+## Github 
 
 (New with Github ? -> [How to get started w/ Github, cc-ai style](/workflow/gettingstarted.md))
 
@@ -17,15 +17,15 @@ Use CWP as much as you can to better communicate and sync with the rest of the t
 
 For now it is a centralized project ; if one or more other repositories grows we'll simply create another one there. CWP is for the whole CC-AI team, not dealing with particular issues for a project. We'll learn as we go, if you want to modify this workflow, do open an issue in [kdb](https://github.com/cc-ai/kdb)
 
-## Good practices
+## Good practices 👍 
 
-### Git
+### Git 🌵
 
 Read through [these commit guidelines](https://github.com/RomuloOliveira/commit-messages-guide) (~10 min) as they will help us work together better. A little more advanced content can be found [here - it walks you though the differences between merging and rebasing branches](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
 
 Also if you like Github from the command line, checkout Github's own too: [`hub`](https://github.com/github/hub)
 
-### Issues and Labels
+### Issues and Labels 💥
 
 Some guidelines to understand **issues and labels**
 
@@ -43,9 +43,7 @@ Some guidelines to understand **issues and labels**
 * **Close** issues when resolved. They may be re-openned later on. You may also **lock** a conversation if the decision is final.
 * **Suggest improvements** to these guidelines and practices
 
-### Automation
-
-#### Labels
+### Reusing Labels 🏷
 
 This procedure describes how to import `kdb`'s labels into your repositories. 
 
@@ -63,7 +61,7 @@ It works like this:
 2. Create a `yml`-compatible string `out`
 3. Download `out` as a `settings.yml` file
 
-## Slack
+## Slack 💻
 
 To Do
 

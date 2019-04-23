@@ -1,8 +1,8 @@
-# CCAI Task distribution
+# CCAI Task distribution 🏗
 
 Here is how we see the project could be split indo domains. **Obviously** there are overlaps and you should not read this compartmentalised silos, rather as contributing guidelines for you to find where and how you want to be part of the effort
 
-|             Domain              | Description                                                                                                                 |                                                      Domain Issues                                                      |
+|             Domain 📒              | Description     📋                                                                                                            |                                                      Domain-specific Issues     💥                                                  |
 | :-----------------------------: | :-------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------: |
 |          [Data](data)           | Help us gather and improve our data sets                                                                                    |       [![][domain:data]](https://github.com/cc-ai/kdb/issues?q=is%3Aopen+is%3Aissue+label%3Adomain%3Adata)       |
 |     [Machine Learning](ml)      | We need to explore architectures, train models, compare performance, advance SOTA                                           |         [![][domain:ml]](https://github.com/cc-ai/kdb/issues?q=is%3Aopen+is%3Aissue+label%3Adomain%3Aml)         |
