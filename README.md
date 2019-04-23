@@ -2,9 +2,6 @@
 
 ## How to use
 
-Use the folder structure to organize data and information. 
+## Sections
 
-```
-$ mkdir ./section
-$ touch ./section/Readme.md
-```
+## Contributing
