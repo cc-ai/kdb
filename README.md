@@ -42,7 +42,7 @@ According to your background and skills, you will find the list of everything we
 ## Contact ✉️
 
 
-This project is lead by Sasha Luccioni (@sashavor), Karthik Mukkavilli (@mukkavilli) and Victor Schmidt (@vict0rsch) from Mila (@Mila-iqai), oversought by [Yoshua Bengio](https://mila.quebec/en/yoshua-bengio/) and [Jennifer Chayes](https://www.microsoft.com/en-us/research/people/jchayes/).
+This project is lead by Sasha Luccioni ([@sashavor](https://github.com/sashavor)), Karthik Mukkavilli ([@mukkavilli](https://github.com/mukkavilli)) and Victor Schmidt ([@vict0rsch](https://github.com/vict0rsch)) from Mila ([@Mila-iqai](https://github.com/mila-iqia)), overseen by [Yoshua Bengio](https://mila.quebec/en/yoshua-bengio/) and [Jennifer Chayes](https://www.microsoft.com/en-us/research/people/jchayes/).
 
 You can contact us via email: `{luccionis | mukkavis | schmidtv}@mila.quebec`,
 
