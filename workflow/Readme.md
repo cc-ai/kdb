@@ -1,51 +1,57 @@
 # Workflow 🌊
 
-## Github 
+## How we use Github 📂
 
-(New with Github ? -> [How to get started w/ Github, cc-ai style](/workflow/gettingstarted.md))
+(New to Github ? -> [How to get started w/ Github, cc-ai style](/workflow/gettingstarted.md))
 
-Code repositories depend on the `cc-ai` *organization*.
+Code repositories depend on the `cc-ai` *organization*, managed by @vict0rsch and @sashavor.
 
-The [CCAI - Workflow](https://github.com/orgs/cc-ai/projects/1) *project* (**CWP** hereafter) tracks to-dos, issues suggestions and so on from these repositoires:
+There are 2 teams (mainly):
+
+- The Core Team is composed of people at Mila working at least 50% of their time on this project
+- The Contributors Team is composed of people affiliated to other organizations and/or volunteering to spend some time on this project
+
+The organization currently has these repositories:
 
 * [kdb](https://github.com/cc-ai/kdb) -> this is the main shared repo, the CC-AI Knowledge Base
-* [floods-frontend](https://github.com/cc-ai/floods-frontend)
-* [floods-backend](https://github.com/cc-ai/floods-backend)
-* [floods](https://github.com/cc-ai/floods)
+* [floods-frontend](https://github.com/cc-ai/floods-frontend) (self-explanatory)
+* [floods-backend](https://github.com/cc-ai/floods-backend) (self-explanatory)
+* [floods-gans](https://github.com/cc-ai/floods-gans) -> where we experiment with generative models to simulate floods
 
-Use CWP as much as you can to better communicate and sync with the rest of the team.
+If you'd rather have your own cc-ai repository for the task you work on, feel free to open a ![][domain:meta] issue
 
-For now it is a centralized project ; if one or more other repositories grows we'll simply create another one there. CWP is for the whole CC-AI team, not dealing with particular issues for a project. We'll learn as we go, if you want to modify this workflow, do open an issue in [kdb](https://github.com/cc-ai/kdb)
+### Good practices 👍
 
-## Good practices 👍 
-
-### Git 🌵
+#### Git 🌵
 
 Read through [these commit guidelines](https://github.com/RomuloOliveira/commit-messages-guide) (~10 min) as they will help us work together better. A little more advanced content can be found [here - it walks you though the differences between merging and rebasing branches](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
 
-Also if you like Github from the command line, checkout Github's own too: [`hub`](https://github.com/github/hub)
+Also if you like Github from the command line, checkout Github's own tool: [`hub`](https://github.com/github/hub)
 
 ### Issues and Labels 💥
 
-Some guidelines to understand **issues and labels**
+Some guidelines to understand our **issues and labels**
 
-* Assign people to issues
-  * If it concerns the whole team, do put it in [CWP](https://github.com/orgs/cc-ai/projects/2)
-<!-- * Use the **reminder** labels to trigger slack messages in order to remind assignees 
-  * ![][reminder (short)] = 24h
-  * ![][reminder (long)] = 1 week -->
-* Use the ![][work in progress] label to acknowledge the issue and state you've started working on it
-* Use the **priority** tags (![][priority:high] or ![][priority:low])
-* Label as ![][meta] issues relating to the overall CC-AI project and its management
-* Use the ![][keep in mind] label to signal thoughts you've had which may someday be relevant
-* Even if you're not *assigned* to an issue, if it bears the ![][good first issue] tag you probably can still do something
-* The ![][priority:critical] label should never be used. Except for extraordinary issues.
+* Use `kdb`'s [issues](https://github.com/cc-ai/kdb/issues) for general purpose issues the community should be aware or any kind of question you have
+
+  * If you work on a specific repository ([floods-gans](https://github.com/cc-ai/floods-gans) for instance) use its issues for everyday tasks, but [`kdb`'s](https://github.com/cc-ai/kdb/issues) for general concerns
+
+* Assign people to issues (maybe yourself)
+* Use Labels!
+  
+  * Use the ![][work in progress] label to acknowledge the issue and state you've started working on it
+  * Use the **priority** tags (![][priority:high] or ![][priority:low])
+  * Label as ![][domain:meta] issues relating to the overall CC-AI project and its management
+  * Use the ![][keep in mind] label to signal thoughts you've had which may someday be relevant
+  * Even if you're not *assigned* to an issue, if it bears the ![][good first issue] tag you probably can still do something
+  * The ![][priority:critical] label should never be used. Except for extraordinary issues.
+  * Use `domain:` labels for people to be able to quickly pick up what's relevant to them. See [domains](/domains)
 * **Close** issues when resolved. They may be re-openned later on. You may also **lock** a conversation if the decision is final.
 * **Suggest improvements** to these guidelines and practices
 
-### Reusing Labels 🏷
+### Reusing `kdb`'s labels in other repositories 🏷
 
-This procedure describes how to import `kdb`'s labels into your repositories. 
+This procedure describes how to import `kdb`'s labels into your repositories / other cc-ai repositories.
 
 **This will overwrite your labels** so if you want your own labels you can do this once and then delete `settings.yml` otherwise it will delete your repo-specific labels when pushed later on.
 
@@ -63,7 +69,7 @@ It works like this:
 
 ## Slack 📡
 
-To Do
+Follow the `#git-kdb` channel to monitor this repo's activity. If you're not in our workspace, see [contact](https://github.com/cc-ai/kdb#contact-%EF%B8%8F)
 
 
 [bug]: https://img.shields.io/badge/bug-d73a4a.svg
