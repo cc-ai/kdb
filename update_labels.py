@@ -110,13 +110,16 @@ if __name__ == "__main__":
                     if name in shields:
                         new_lines.append(shields[name]["text"])
                         shields[name]["visited"] = True
-                        print("Updating line", i, ":", l)
+                        if shields[name]["text"] != l:
+                            print("Updating line", i, ":", l)
                 else:
                     new_lines.append(l)
 
             for shield in shields.values():
                 if not shield["visited"]:
                     new_lines.append(shield["text"])
+                    print("Adding", l)
             with cand.open("w") as f:
                 f.writelines("\n".join(new_lines))
+            print()
         reset(shields)
