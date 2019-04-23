@@ -1,4 +1,4 @@
-# Code
+# Code 💻
 
 ## Google APIs
 
@@ -18,4 +18,3 @@
 
 ## Climate Science
 
-* blabla example repo from K

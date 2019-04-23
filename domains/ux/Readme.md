@@ -1,4 +1,4 @@
-# User Research
+# User Research 📇
 
 We need to identify our **target users**, their needs/expectations, and better define our value proposition. We need to understand **how our users understand science** and how much of it they expect. We want to find the sweet spot between **scientific credibility and user-friendliness**.
 

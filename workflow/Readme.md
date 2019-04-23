@@ -61,7 +61,7 @@ It works like this:
 2. Create a `yml`-compatible string `out`
 3. Download `out` as a `settings.yml` file
 
-## Slack 💻
+## Slack 📡
 
 To Do
 

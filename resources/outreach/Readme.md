@@ -1,4 +1,4 @@
-# Outreach
+# Outreach 📣
 
 A folder to store outreach documents and presentations.
 

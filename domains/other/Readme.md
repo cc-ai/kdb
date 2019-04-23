@@ -1,4 +1,4 @@
-# Other Initiatives
+# Other Initiatives 🎉
 
 ## Information Retrieval
 At the last meeting at MSR, Devon proposed to use IR to **retrieve images of climate change** instead of generating them on the go. This can be pursued either as a standalone endeavour, or as **complementary** to the generative approach : i.e. when the viewer’s house is too different from the ones that our model is trained on, we can retrieve a photo of a similar house affected by extreme weather events. This would entail that the IR system would have to communicate with our backend.

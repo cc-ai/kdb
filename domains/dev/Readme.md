@@ -1,4 +1,4 @@
-# Web development
+# Web development 🔮
 
 ## Front-end
 The front-end will be critical. It needs to be flawless if we want things to get viral and emotionally compelling. Work with UX/UI is expected. We therefore need a front-end developer who will design a first version of the website, which will only show the images, and then integrate the behavioral knobs, links to actions, etc.
