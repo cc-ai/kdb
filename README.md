@@ -1,4 +1,7 @@
-<h1 align="center">CC-AI Shared Knowledge Database</h1>
+
+<img align="center" src="https://i.postimg.cc/cLJGvwyw/visceralizing-cc.png" alt="logo"></img>
+
+<h3 align="center">CC-AI Shared Knowledge Database</h3>
 
 <p align="center">🌎 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌍&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌏</p>
 
