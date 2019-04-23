@@ -1,6 +1,6 @@
 # Workflow 🌊
 
-## How we use Github 📂
+## How we use Github 🚉
 
 (New to Github ? -> [How to get started w/ Github, cc-ai style](/workflow/gettingstarted.md))
 
@@ -8,8 +8,8 @@ Code repositories depend on the `cc-ai` *organization*, managed by @vict0rsch an
 
 There are 2 teams (mainly):
 
-- The Core Team is composed of people at Mila working at least 50% of their time on this project
-- The Contributors Team is composed of people affiliated to other organizations and/or volunteering to spend some time on this project
+- The [Core Team](https://github.com/orgs/cc-ai/teams/core) is composed of people at Mila working at least 50% of their time on this project
+- The [Contributors Team](https://github.com/orgs/cc-ai/teams/contributors) is composed of people affiliated to other organizations and/or volunteering to spend some time on this project
 
 The organization currently has these repositories:
 
@@ -39,12 +39,12 @@ Some guidelines to understand our **issues and labels**
 * Assign people to issues (maybe yourself)
 * Use Labels!
   
-  * Use the ![][work in progress] label to acknowledge the issue and state you've started working on it
-  * Use the **priority** tags (![][priority:high] or ![][priority:low])
-  * Label as ![][domain:meta] issues relating to the overall CC-AI project and its management
-  * Use the ![][keep in mind] label to signal thoughts you've had which may someday be relevant
-  * Even if you're not *assigned* to an issue, if it bears the ![][good first issue] tag you probably can still do something
-  * The ![][priority:critical] label should never be used. Except for extraordinary issues.
+  * Use the [![][work in progress]](https://github.com/cc-ai/kdb/labels/work%20in%20progress) label to acknowledge the issue and state you've started working on it
+  * Use the **priority** tags ([![][priority:high]](https://github.com/cc-ai/kdb/labels/priority%3Ahigh) or [![][priority:low]](https://github.com/cc-ai/kdb/labels/priority%3Alow))
+  * Label as [![][domain:meta]](https://github.com/cc-ai/kdb/labels/domain%3Ameta) issues relating to the overall CC-AI project and its management
+  * Use the [![][keep in mind]](https://github.com/cc-ai/kdb/labels/keep%20in%20mind) label to signal thoughts you've had which may someday be relevant
+  * Even if you're not *assigned* to an issue, if it bears the [![][good first issue]](https://github.com/cc-ai/kdb/labels/good%20first%20issue) tag you probably can still do something
+  * The [![][priority:critical]](https://github.com/cc-ai/kdb/labels/priority%3Acritical) label should never be used. Except for extraordinary issues.
   * Use `domain:` labels for people to be able to quickly pick up what's relevant to them. See [domains](/domains)
 * **Close** issues when resolved. They may be re-openned later on. You may also **lock** a conversation if the decision is final.
 * **Suggest improvements** to these guidelines and practices
