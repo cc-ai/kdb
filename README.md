@@ -39,6 +39,10 @@ The [workflow's `Readme`](/workflow) contains everything you need to know. Go th
 
 According to your background and skills, you will find the list of everything we need help with in [domains/](/domains) along with relevant issues
 
+#### In any case
+
+Add yourself to our [Who's Who?](workflow/whoswho.md) if you plan on contributing !
+
 ## Contact ✉️
 
 
