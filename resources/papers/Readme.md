@@ -10,4 +10,4 @@ We're also building a more exhaustive list on Zotero. [Join our team](https://ww
 * [Unsupervised Attention-guided Image-to-Image Translation](https://arxiv.org/abs/1806.02311)
 * [Semantic Image Synthesis with Spatially-Adaptive Normalization](https://arxiv.org/abs/1903.07291)
 * [A Closed-form Solution to Photorealistic Image Stylization](https://arxiv.org/abs/1802.06474)
-
+* [Image-to-image translation for cross-domain disentanglement](https://arxiv.org/abs/1805.09730)
