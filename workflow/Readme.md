@@ -28,6 +28,16 @@ Read through [these commit guidelines](https://github.com/RomuloOliveira/commit-
 
 Also if you like Github from the command line, checkout Github's own tool: [`hub`](https://github.com/github/hub)
 
+#### The CCAI Status Project 🔔
+
+If you click on `Projects`, to the right of `Issues`, you'll find the [CCAI Status project](https://github.com/cc-ai/kdb/projects/4). This Kanban-style project helps us track issues and tasks.
+
+**When you create an issue** add it to the `CCAI Status` project (to the right of the issue editting interface, below `Assignees` and `Labels`) **iff** it is a concrete 🔬 issue (bug, to do etc.). Please keep open discussions (as #16 or #37, *i.e.* issues with the [![][discussion]](https://github.com/cc-ai/kdb/labels/discussion) label) out of there.
+
+You can always add an issue using the `+ Add card` button to the top right of the project's page.
+
+**Do update the status of issues you are assigned**❗
+
 ### Issues and Labels 💥
 
 Some guidelines to understand our **issues and labels**
@@ -44,6 +54,8 @@ Some guidelines to understand our **issues and labels**
   * Label as [![][domain:meta]](https://github.com/cc-ai/kdb/labels/domain%3Ameta) issues relating to the overall CC-AI project and its management
   * Use the [![][keep in mind]](https://github.com/cc-ai/kdb/labels/keep%20in%20mind) label to signal thoughts you've had which may someday be relevant
   * Even if you're not *assigned* to an issue, if it bears the [![][good first issue]](https://github.com/cc-ai/kdb/labels/good%20first%20issue) tag you probably can still do something
+  * If you're in some kind of trouble and need people's advice, use the [![][help wanted]](https://github.com/cc-ai/kdb/labels/help%20wanted)
+  * To open a discussion about anything, get people's opinions, use the [![][discussion]](https://github.com/cc-ai/kdb/labels/discussion)
   * The [![][priority:critical]](https://github.com/cc-ai/kdb/labels/priority%3Acritical) label should never be used. Except for extraordinary issues.
   * Use `domain:` labels for people to be able to quickly pick up what's relevant to them. See [domains](/domains)
 * **Close** issues when resolved. They may be re-openned later on. You may also **lock** a conversation if the decision is final.
@@ -80,7 +92,7 @@ Follow the `#git-kdb` channel to monitor this repo's activity. If you're not in 
 [invalid]: https://img.shields.io/badge/invalid-e4e669.svg
 [keep in mind]: https://img.shields.io/badge/keep%20in%20mind-c0cef7.svg
 [priority:low]: https://img.shields.io/badge/priority:low-efff8c.svg
-[question]: https://img.shields.io/badge/question-d876e3.svg
+[discussion]: https://img.shields.io/badge/discussion-d876e3.svg
 [wontfix]: https://img.shields.io/badge/wontfix-ffffff.svg
 [work in progress]: https://img.shields.io/badge/work%20in%20progress-ededed.svg
 [domain:behavioral]: https://img.shields.io/badge/domain:behavioral-f4b7c4.svg
