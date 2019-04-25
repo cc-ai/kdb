@@ -15,6 +15,8 @@ Git is a software to do version control, which means it will save any changes be
 
 Some useful GitHub vocabulary (from [this guide](https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/))
 
+**Markdown**: A way to write text files so that they are rendered beautifully on Github without the hastle of using `html`. For instance, if you start a line with `# This is a title`, it will be rendered by Github as a Top-level title (as `# Github at cc-ai : getting started 🥋`). If you add a `#` it will be displayed as a secondary title (as `## Vocabulary 🙊 `) and so on until `###### minor title`. Including links is extremely easy too! `[YourWebsite](https://www.your.website)` will be rendered like this: [YourWebsite](https://www.your.website). These special text files have a `.md` extension. On GitHub if there is a `Readme.md` file in the current folder you're looking into, it will be automatically rendered. If you click on a specific `.md` file, it will also be rendered. To see the `raw` text, before rendering, you can just click on the `raw` button (no shit...). Remember: Markdown is easy, ask for help if you're stuck with something. In the mean time, [**checkout this cheatsheet to learn in 2 minutes how to use Markdown**](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 **Repository or Repo** : A directory or storage space where your projects can live. It can be local to a folder on your computer, or it can be a storage space on GitHub or another online host. You can keep code files, text files, image files, you name it, inside a repository.
 
 **Commit**: This is the command that gives Git its power. When you commit, you are taking a “snapshot” of your repository at that point in time, giving you a checkpoint to which you can reevaluate or restore your project to any previous state.
@@ -23,12 +25,6 @@ Some useful GitHub vocabulary (from [this guide](https://readwrite.com/2013/09/3
 
 **Issue**: Although the name may sound negative <i> ("Oh no, there's an issue with my project!") </i>, 'issue' is just the name used by GitHub for different tasks that contributors can assign to themselves. You can open an issue when you've defined it as something that needs to be worked on, tag it with labels depending on what it involves, and then assign it to yourself (or someone else!). A very important document that explains this workflow for the **cc-ai project** process can be found [**here**](https://github.com/cc-ai/kdb/tree/master/workflow).
 
-
-* Lists are easy to do:
-** start every line
-* with a star
-** more stars mean
-*** deeper levels
 
 
 ## What we will use GitHub for 🔦
@@ -48,11 +44,11 @@ Some useful GitHub vocabulary (from [this guide](https://readwrite.com/2013/09/3
 ### Adding a paper from a link 
 
 - From the home page (https://github.com/cc-ai/kdb) click on `resources` in the top folder structure, then on `papers` (or the link provided): you should be at https://github.com/cc-ai/kdb/tree/master/resources/papers
-- **By default, Github displays the file called `Readme.md`**
+- Remember, **by default, Github displays the file called `Readme.md`**
 - You can edit this file and add your preferred paper by clicking on the pencil icon to the top right of the displayed Readme
 - Add a line with your paper line this `* [paper title](https:// link to paper)
 
-[![Gif illustration](https://media.giphy.com/media/co5O8kmFcr0kv6kj7M/giphy.gif)](https://media.giphy.com/media/co5O8kmFcr0kv6kj7M/giphy.gif)
+    [![Gif illustration](https://media.giphy.com/media/co5O8kmFcr0kv6kj7M/giphy.gif)](https://media.giphy.com/media/co5O8kmFcr0kv6kj7M/giphy.gif)
 
 
 
@@ -88,6 +84,8 @@ Some useful GitHub vocabulary (from [this guide](https://readwrite.com/2013/09/3
 - If you already know who will be working on the issue, add an `Assignee` from the list on the right. If not, you can leave it blank.
 
 [![Gif illustration]()
+
+**Bravo! You're all set!** 💪 Now checkout [the workflow's guide on using cc-ai's labels on issues](https://github.com/cc-ai/kdb/tree/master/workflow#issues-and-labels-)
 
 ## Getting Started ⚡️ 
 
