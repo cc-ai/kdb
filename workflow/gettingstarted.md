@@ -15,7 +15,9 @@ Git is a software to do version control, which means it will save any changes be
 
 Some useful GitHub vocabulary (from [this guide](https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/))
 
-**Markdown**: A way to write text files so that they are rendered beautifully on Github without the hastle of using `html`. For instance, if you start a line with `# This is a title`, it will be rendered by Github as a Top-level title (as `# Github at cc-ai : getting started 🥋`). If you add a `#` it will be displayed as a secondary title (as `## Vocabulary 🙊 `) and so on until `###### minor title`. Including links is extremely easy too! `[YourWebsite](https://www.your.website)` will be rendered like this: [YourWebsite](https://www.your.website). These special text files have a `.md` extension. On GitHub if there is a `Readme.md` file in the current folder you're looking into, it will be automatically rendered. If you click on a specific `.md` file, it will also be rendered. To see the `raw` text, before rendering, you can just click on the `raw` button (no shit...). Remember: Markdown is easy, ask for help if you're stuck with something. In the mean time, [**checkout this cheatsheet to learn in 2 minutes how to use Markdown**](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+**Markdown**: A way to write text files so that they are rendered beautifully on Github without the hastle of using `html`. For instance, if you start a line with `# This is a title`, it will be rendered by Github as a Top-level title (as `# Github at cc-ai : getting started 🥋`). If you add a `#` it will be displayed as a secondary title (as `## Vocabulary 🙊 `) and so on until `###### minor title`. Including links is extremely easy too! `[website](https://website.com)` will be rendered like this: [website](https://website.com). These special text files have a `.md` extension. On GitHub if there is a `Readme.md` file in the current folder you're looking into, it will be automatically rendered. If you click on a specific `.md` file, it will also be rendered. To see the `raw` text, before rendering, you can just click on the `raw` button (no shit...). Remember: Markdown is easy, ask for help if you're stuck with something. In the mean time, [**checkout this cheatsheet to learn in 2 minutes how to use Markdown**](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+<p align="center"><img alt="editting a readme" src="https://media.giphy.com/media/TKifS1eBNfEud7jQuy/giphy.gif"/></p>
 
 **Repository or Repo** : A directory or storage space where your projects can live. It can be local to a folder on your computer, or it can be a storage space on GitHub or another online host. You can keep code files, text files, image files, you name it, inside a repository.
 
@@ -46,34 +48,37 @@ Some useful GitHub vocabulary (from [this guide](https://readwrite.com/2013/09/3
 - From the home page (https://github.com/cc-ai/kdb) click on `resources` in the top folder structure, then on `papers` (or the link provided): you should be at https://github.com/cc-ai/kdb/tree/master/resources/papers
 - Remember, **by default, Github displays the file called `Readme.md`**
 - You can edit this file and add your preferred paper by clicking on the pencil icon to the top right of the displayed Readme
-- Add a line with your paper line this `* [paper title](https:// link to paper)
+- Add a line with your paper line this `* [paper title](https:// link to paper)`
 
-    [![Gif illustration](https://media.giphy.com/media/co5O8kmFcr0kv6kj7M/giphy.gif)](https://media.giphy.com/media/co5O8kmFcr0kv6kj7M/giphy.gif)
-
-
-
-### Adding a paper from a pdf ###
-
--From the home page (https://github.com/cc-ai/kdb) click on `resources` in the top folder structure, then on `papers` (or the link provided): you should be at https://github.com/cc-ai/kdb/tree/master/resources/papers
-- **By default, Github displays the file called `Readme.md`**
-- You can edit this file and add your preferred paper by clicking on the pencil icon to the top right of the displayed Readme
-- Add a line in the Readme with the link to your paper, in the following format:`* [paper title](https:// link to paper)`
-
-[![Gif illustration]( )
+<p align="center"><img alt="adding a link" src="https://media.giphy.com/media/co5O8kmFcr0kv6kj7M/giphy.gif"/></p>
 
 
-### Assigning an issue to yourself ###
+### Adding a paper from a pdf
 
-- From the home page (https://github.com/cc-ai/kdb) click on `issues` in the top folder structure: this should bring you to https://github.com/cc-ai/kdb/issues
-- This will show you the list of currently open issues
-- You can filter the issues by `Author`, `Labels`, `Assignee`, or sort by date.
-- When you have found an issue that you want to tackle, click on its name
-- To assign it to yourself, click `Assignees` on the right of the screen and select your GitHub handle from the list
-- If you want to add details or comments, use the Write section at the bottom of the page
+If you can simply add a link to this pdf, it's better as it makes the hole repository heavier for others to sync with. But if you can't and want to share the file, here's how to:
 
-[![Gif illustration]()
+- Host it elsewhere (Google Drive or something)
+- Host it on the repository
+  - From the home page (https://github.com/cc-ai/kdb) click on `resources` in the top folder structure, then on `papers` (or the link provided): you should be at https://github.com/cc-ai/kdb/tree/master/resources/papers
+  - Click on `Upload files`
+  - Drag and drop or `choose your files`
+  - Commit (= save)
+  - Copy link to file
+- Add the hosted file link to the `Readme.md` as described previously
 
-### Opening an issue ###
+<p align="center"><img alt="adding a pdf" src="https://media.giphy.com/media/SwmmifQOkBjdrGGzcT/giphy.gif"/></p>
+
+### Opening an issue
+
+#### Why
+
+Remember, issues are used to track problems, open discussions about a topic or simply create a task to be done. Basic use cases include:
+
+- Getting people's opinion on a matter (like victo did for the who's who -> [see #39](https://github.com/cc-ai/kdb/issues/39))
+- Signaling a bug in some code (unexpected behavior, error in execution, installation issues and so on)
+- Reminding yourself (and possibly others) about something to be done (like the example issue below -> [see #43](https://github.com/cc-ai/kdb/issues/43) )
+
+#### How
 
 - From the home page (https://github.com/cc-ai/kdb) click on `issues` in the top folder structure: this should bring you to https://github.com/cc-ai/kdb/issues
 - This will show you the list of currently open issues
@@ -83,7 +88,20 @@ Some useful GitHub vocabulary (from [this guide](https://readwrite.com/2013/09/3
 - **Don't forget to label it with the corresponding label from the `Labels` dropdown list on the right** (for more information about labels, read this: https://github.com/cc-ai/kdb/tree/master/workflow) 
 - If you already know who will be working on the issue, add an `Assignee` from the list on the right. If not, you can leave it blank.
 
-[![Gif illustration]()
+<p align="center"><img alt="adding a pdf" src="https://media.giphy.com/media/IevI50cAejhnehJ7oH/giphy.gif"/></p>
+
+#### Assigning an issue to yourself ###
+
+- When you have found an issue that you want to tackle, possibly opened by someone else, click on its name
+- To assign it to yourself, click `Assignees` on the right of the screen and select your GitHub handle from the list
+- If you want to add details or comments, use the Write section at the bottom of the page
+
+#### Closing an issue
+
+- When the issue is solved, use the `close and comment` button
+- You can always re-open an issue later if the fix is not complete or the same problem arises in a new context or whatever
+- For instance, the example issue above, [#43](https://github.com/cc-ai/kdb/issues/43), is now closed because gifs have been added
+
 
 **Bravo! You're all set!** 💪 Now checkout [the workflow's guide on using cc-ai's labels on issues](https://github.com/cc-ai/kdb/tree/master/workflow#issues-and-labels-)
 
