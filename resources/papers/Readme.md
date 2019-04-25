@@ -12,4 +12,4 @@ We're also building a more exhaustive list on Zotero. [Join our team](https://ww
 * [A Closed-form Solution to Photorealistic Image Stylization](https://arxiv.org/abs/1802.06474)
 * [Image-to-image translation for cross-domain disentanglement](https://arxiv.org/abs/1805.09730)
 * [InstaGAN: Instance-aware image-to-image translation](https://openreview.net/pdf?id=ryxwJhC9YX)
-* [my paper](https://github.com/cc-ai/kdb/blob/master/resources/papers/1805.08318.pdf)
+* [Self-Attention Generative Adversarial Networks](https://github.com/cc-ai/kdb/blob/master/resources/papers/1805.08318.pdf)
