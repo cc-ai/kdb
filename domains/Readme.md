@@ -17,7 +17,7 @@ Here is how we see the project could be split indo domains. **Obviously** there 
 
 Use the `domain:` tags to track issuses and find out where you can help
 
-Use the [Tasks Project](https://github.com/cc-ai/kdb/projects/3) to track advancement of each domain.
+Use the [Status Project](https://github.com/cc-ai/kdb/projects/4) to track advancement of each domain.
 
 [bug]: https://img.shields.io/badge/bug-d73a4a.svg
 [domain:behavioral]: https://img.shields.io/badge/domain:behavioral-f4b7c4.svg
