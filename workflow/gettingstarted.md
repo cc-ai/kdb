@@ -61,20 +61,33 @@ Some useful GitHub vocabulary (from [this guide](https://readwrite.com/2013/09/3
 -From the home page (https://github.com/cc-ai/kdb) click on `resources` in the top folder structure, then on `papers` (or the link provided): you should be at https://github.com/cc-ai/kdb/tree/master/resources/papers
 - **By default, Github displays the file called `Readme.md`**
 - You can edit this file and add your preferred paper by clicking on the pencil icon to the top right of the displayed Readme
-- Add a line with your paper line this `* [paper title](https:// link to paper)`
+- Add a line in the Readme with the link to your paper, in the following format:`* [paper title](https:// link to paper)`
 
-[![Gif illustration](https://media.giphy.com/media/co5O8kmFcr0kv6kj7M/giphy.gif)](https://media.giphy.com/media/co5O8kmFcr0kv6kj7M/giphy.gif)
+[![Gif illustration]( )
 
+
+### Assigning an issue to yourself ###
+
+- From the home page (https://github.com/cc-ai/kdb) click on `issues` in the top folder structure: this should bring you to https://github.com/cc-ai/kdb/issues
+- This will show you the list of currently open issues
+- You can filter the issues by `Author`, `Labels`, `Assignee`, or sort by date.
+- When you have found an issue that you want to tackle, click on its name
+- To assign it to yourself, click `Assignees` on the right of the screen and select your GitHub handle from the list
+- If you want to add details or comments, use the Write section at the bottom of the page
+
+[![Gif illustration]()
 
 ### Opening an issue ###
 
-- From the home page (https://github.com/cc-ai/kdb) click on `resources` in the top folder structure, then on `papers` (or the link provided): you should be at https://github.com/cc-ai/kdb/tree/master/resources/papers
-- **By default, Github displays the file called `Readme.md`**
-- You can edit this file and add your preferred paper by clicking on the pencil icon to the top right of the displayed Readme
-- Add a line with your paper line this `* [paper title](https:// link to paper)`
+- From the home page (https://github.com/cc-ai/kdb) click on `issues` in the top folder structure: this should bring you to https://github.com/cc-ai/kdb/issues
+- This will show you the list of currently open issues
+- You can filter the issues by `Author`, `Labels`, `Assignee`, or sort by date
+- To open a new issue, click on `New Issue`, in green at the top right of the list of open issues
+- When opening an issue, you should add: a title and a brief (one or two sentence) summary 
+- **Don't forget to label it with the corresponding label from the `Labels` dropdown list on the right** (for more information about labels, read this: https://github.com/cc-ai/kdb/tree/master/workflow) 
+- If you already know who will be working on the issue, add an `Assignee` from the list on the right. If not, you can leave it blank.
 
-[![Gif illustration](https://media.giphy.com/media/co5O8kmFcr0kv6kj7M/giphy.gif)](https://media.giphy.com/media/co5O8kmFcr0kv6kj7M/giphy.gif)
-
+[![Gif illustration]()
 
 ## Getting Started ⚡️ 
 
