@@ -15,7 +15,7 @@ This repository is the CCAI project's knowledge database. We use it to:
 
 ## Contributing 🤝
 
-### About💡
+### Goal 🥅
 
 We cannot stress enough how **collaborative** and **open** this project should be. This means that you may (and should) bring to the discussion anything you believe can be improved, suggest modifications to the workflow and **share** resources.
 
@@ -42,6 +42,16 @@ According to your background and skills, you will find the list of everything we
 #### In any case
 
 Add yourself to our [Who's Who?](workflow/whoswho.md) if you plan on contributing !
+
+## About 💡
+
+In case you stubbled upon this repository inadvertantly, here is our story.
+
+The CCAI project is an interdisciplinary project aimed at creating images of accurate, vivid, and personalized outcomes of climate change. Our goal is to use cutting-edge machine learning techniques to produce images of how neighborhoods and houses will look like following the effects of global warming. By creating a more visceral understanding of the effects of climate change, we aim to strengthen public support for necessary actions and motivate people to make impactful decisions. As a prototype, we first focus on modeling flood consequences on homes.
+
+For a more detailed motivation explanation, read through our [2 pages executive summary](https://docs.google.com/document/d/1WQtugSBgMVB-i0RhgCg_qaP7WDj7aimWvpZytKTEqY4/edit)
+
+Also, you might be interested in oour ICLR 2019 Ai For Social Good workshop paper (~link to be added~)
 
 ## Contact ✉️
 
