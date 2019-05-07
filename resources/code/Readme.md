@@ -13,6 +13,9 @@
 * [Pytorch GAN Zoo (FAIR)](https://github.com/facebookresearch/pytorch_GAN_zoo/blob/master/README.md)
 * [CycleGAN and pix2pix in PyTorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
 * [Unsupervised Attention-guided Image-to-Image Translation](https://github.com/AlamiMejjati/Unsupervised-Attention-guided-Image-to-Image-Translation)
+* [Semantic Image Synthesis with SPADE](https://github.com/NVlabs/SPADE)
+
+
 
 ## ML
 
