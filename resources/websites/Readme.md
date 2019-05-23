@@ -11,3 +11,4 @@
 
 * [Nuclear Dissent](https://nucleardissent.com/fallout-map)
 * [360 Syria](http://www.360syria.com/) (Amnesty International)
+* [Images Show Impact of Sea Level Rise on Global Icons](https://www.climatecentral.org/news/global-icons-at-risk-from-sea-level-rise-pictures-19633) (Nickolay Lamm)
