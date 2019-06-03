@@ -1,9 +1,13 @@
 
 <img align="center" src="https://i.postimg.cc/cLJGvwyw/visceralizing-cc.png" alt="logo"></img>
 
-<h3 align="center">CC-AI Shared Knowledge Database</h3>
+<h3 align="center">Visualizing the Impact of Climate Change: A Shared Knowledge Database</h3>
 
 <p align="center">🌎 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌍&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌏</p>
+
+Welcome! Have a look at this Home page to better understand how you can contribute to the project. 
+
+Don't know what this is about? Check out the [About section](https://github.com/cc-ai/kdb#about-)
 
 ## How to use 📃
 
