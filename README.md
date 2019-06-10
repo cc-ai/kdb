@@ -60,7 +60,7 @@ Also, you might be interested in oour ICLR 2019 Ai For Social Good workshop pape
 ## Contact ✉️
 
 
-This project is lead by Sasha Luccioni ([@sashavor](https://github.com/sashavor)), Karthik Mukkavilli ([@mukkavilli](https://github.com/mukkavilli)) and Victor Schmidt ([@vict0rsch](https://github.com/vict0rsch)) from Mila ([@Mila-iqai](https://github.com/mila-iqia)), overseen by [Yoshua Bengio](https://mila.quebec/en/yoshua-bengio/) and [Jennifer Chayes](https://www.microsoft.com/en-us/research/people/jchayes/).
+This project is lead by Sasha Luccioni ([@sashavor](https://github.com/sashavor)), Karthik Mukkavilli ([@mukkavilli](https://github.com/mukkavilli)), Vahe Vardanyan ([@vahe987](https://github.com/vahe987)) and Victor Schmidt ([@vict0rsch](https://github.com/vict0rsch)) from Mila ([@Mila-iqai](https://github.com/mila-iqia)), overseen by [Yoshua Bengio](https://mila.quebec/en/yoshua-bengio/) and [Jennifer Chayes](https://www.microsoft.com/en-us/research/people/jchayes/).
 
 You can contact us via email: `{luccionis | mukkavis | schmidtv | vardanyv}@mila.quebec`
 
