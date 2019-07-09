@@ -12,6 +12,7 @@ Data is located in `/network/tmp1/ccai`
 ### Datasets
 
 |Folder name|description|
+|:---------:|:----------|
 |27.02.FloodingData|First version of the dataset with open-access images of houses and flooded areas. Includes images of Venice and some donated by a photographer|
 |280_flooded_houses| 280 images of flooded houses segmented by the ccai team with LabelBox. Masks are binary|
 |deeplab_segmented_houses|Images of houses from the 1k dataset segmented by deeplab: ground labels are merged together to create a binary mask. Labels merged as ground: !**Gautier**|
