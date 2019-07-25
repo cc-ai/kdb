@@ -13,3 +13,13 @@ We're also building a more exhaustive list on Zotero. [Join our team](https://ww
 * [Image-to-image translation for cross-domain disentanglement](https://arxiv.org/abs/1805.09730)
 * [InstaGAN: Instance-aware image-to-image translation](https://openreview.net/pdf?id=ryxwJhC9YX)
 * [Semantic Image Synthesis with Spatially-Adaptive Normalization](https://arxiv.org/abs/1903.07291)
+
+## Domain Adaptation 
+
+* [CYCADA: CYCLE-CONSISTENT ADVERSARIAL DOMAIN ADAPTATION](https://arxiv.org/pdf/1711.03213.pdf)
+* [Sim-to-Real via Sim-to-Sim: Data-efficient Robotic Grasping via Randomized-to-Canonical Adaptation Networks](https://arxiv.org/pdf/1812.07252.pdf)
+* [Domain Randomization for transferring deep neural networks from Simulation to Real World](https://arxiv.org/pdf/1703.06907.pdf)
+* [Adapting Deep Visuomotor Representations with Weak Pairwise Constraints](https://arxiv.org/pdf/1511.07111.pdf)
+* [Learning from Synthetic Data: Addressing Domain Shift for Semantic Segmentation](https://arxiv.org/pdf/1711.06969.pdf)
+
+**Work in progress:** [Domain Adaptation Guide](https://docs.google.com/presentation/d/17R1xWwadtpLDj1IGUMOZhw4WfKuIRwzfgvqBNEVdeMY/edit?usp=sharing)
