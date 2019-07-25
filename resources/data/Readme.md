@@ -20,3 +20,11 @@ Data is located in `/network/tmp1/ccai`
 |SimFlood 50-50f-50p-50m|50 Synthetic images of flooded/non-flooded pairs + pink images (where the water is) + masks (where the pink was -> see pink_to_mask.py in various scripts)|
 |val_set|CCAI's validation set: Currently, the validation set consists of 50 streetview images (random selection of coordinates) but it's made sure that images are from urban/suburban areas and contain atleast one house/building (mostly from urban)|
 |video_water_database|Images with masks from Water Detection through Spatio-Temporal Invariant Descriptors, http://isis-data.science.uva.nl/mettes/VideoWaterDatabase.tar.gz|
+|elementai_data|Simulated data from Element AI: Contains 10K images without stormy weather in trainA and 10K images with stormy weather in trainB|
+|elementai_mapillary|Data for Domain Adaptation : Contains 10K images from Element AI without stormy weather in trainA and 18K images (across seasons) from mapillary dataset in trainB|
+|real_to_sim_non-flooded|Data for Real-to-Sim non-flooded style transfer : Contains 1136 real non-flooded images(Cityscapes 982 + streetview 154) in trainA and 10K images from Element AI without stormy weather in trainB|
+
+
+
+
+
