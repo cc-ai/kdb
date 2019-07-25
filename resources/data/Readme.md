@@ -23,6 +23,9 @@ Data is located in `/network/tmp1/ccai`
 |elementai_data|Simulated data from Element AI: Contains 10K images without stormy weather in trainA and 10K images with stormy weather in trainB|
 |elementai_mapillary|Data for Domain Adaptation : Contains 10K images from Element AI without stormy weather in trainA and 18K images (across seasons) from mapillary dataset in trainB|
 |real_to_sim_non-flooded|Data for Real-to-Sim non-flooded style transfer : Contains 1136 real non-flooded images(Cityscapes 982 + streetview 154) in trainA and 10K images from Element AI without stormy weather in trainB|
+|/network/tmp1/ccai/preprocessed/munit/depth_floods_280| Data for MUNIT-LOMIT : Exact details of how the data is being used is mentioned in the config file [here](https://github.com/cc-ai/floods-gans/blob/master/lomit_munit/configs/street2flood_list.yaml).|
+
+
 
 
 
