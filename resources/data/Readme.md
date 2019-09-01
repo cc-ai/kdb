@@ -7,6 +7,7 @@ Data is located in `/network/tmp1/ccai`
 * `data/` folder contains the raw datasets
 * `preprocessed/` contains data prepared/preprocessed for inference (format, crops, etc.)
 * `results/` contains the results of training procedures: intermediate/final inferences, checkpoints etc.
+* `climate/` contains data and notebooks from the climate domain. Data description in [climate-code/data.md](https://github.com/cc-ai/climate-code/blob/master/data.md).
 
 
 ### Datasets
