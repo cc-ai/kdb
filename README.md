@@ -35,13 +35,13 @@ Keep in mind that both domain-specific issues (like questions/discussions about 
 
 #### New to Github? 🦎
 
-We have compiled a shor list of basic things for you to know in order to make the most out of Github without needing to become a software engineer first -> [**Github at `cc-ai`**](/workflow/gettingstarted.md)
+We have compiled a short list of basic things for you to know in order to make the most out of Github without needing to become a software engineer first -> [**Github at `cc-ai`**](/workflow/gettingstarted.md)
 
 #### Experienced contributor 🦖 
 
 The [workflow's `Readme`](/workflow) contains everything you need to know. Go through it at least once to get a feeling of how we want to work before you do your usual magic. Again, if you find some useless friction, open a `domain:meta` issue to discuss it.
 
-According to your background and skills, you will find the list of everything we need help with in [domains/](/domains) along with relevant issues
+According to your background and skills, you will find the list of everything we need help with in [domains/](/domains) along with relevant issues.
 
 #### In any case
 
@@ -49,18 +49,18 @@ Add yourself to our [Who's Who?](workflow/whoswho.md) if you plan on contributin
 
 ## About 💡
 
-In case you stubbled upon this repository inadvertantly, here is our story.
+In case you stumbled upon this repository inadvertantly, here is our story.
 
 The CCAI project is an interdisciplinary project aimed at creating images of accurate, vivid, and personalized outcomes of climate change. Our goal is to use cutting-edge machine learning techniques to produce images of how neighborhoods and houses will look like following the effects of global warming. By creating a more visceral understanding of the effects of climate change, we aim to strengthen public support for necessary actions and motivate people to make impactful decisions. As a prototype, we first focus on modeling flood consequences on homes.
 
 For a more detailed motivation explanation, read through our [2 pages executive summary](https://docs.google.com/document/d/1WQtugSBgMVB-i0RhgCg_qaP7WDj7aimWvpZytKTEqY4/edit)
 
-Also, you might be interested in oour ICLR 2019 Ai For Social Good workshop paper (~link to be added~)
+Also, you might be interested in our ICLR 2019 Ai For Social Good workshop [paper](https://aiforsocialgood.github.io/iclr2019/accepted/track1/pdfs/24_aisg_iclr2019.pdf)
 
 ## Contact ✉️
 
 
-This project is lead by Sasha Luccioni ([@sashavor](https://github.com/sashavor)), Karthik Mukkavilli ([@mukkavilli](https://github.com/mukkavilli)), Vahe Vardanyan ([@vahe987](https://github.com/vahe987)) and Victor Schmidt ([@vict0rsch](https://github.com/vict0rsch)) from Mila ([@Mila-iqai](https://github.com/mila-iqia)), overseen by [Yoshua Bengio](https://mila.quebec/en/yoshua-bengio/) and [Jennifer Chayes](https://www.microsoft.com/en-us/research/people/jchayes/).
+This project is led by Sasha Luccioni ([@sashavor](https://github.com/sashavor)), Karthik Mukkavilli ([@mukkavilli](https://github.com/mukkavilli)), Vahe Vardanyan ([@vahe987](https://github.com/vahe987)) and Victor Schmidt ([@vict0rsch](https://github.com/vict0rsch)) from Mila ([@Mila-iqai](https://github.com/mila-iqia)), overseen by [Yoshua Bengio](https://mila.quebec/en/yoshua-bengio/) and [Jennifer Chayes](https://www.microsoft.com/en-us/research/people/jchayes/).
 
 You can contact us via email: `{luccionis | mukkavis | schmidtv | vardanyv}@mila.quebec`
 
