@@ -8,14 +8,14 @@ Don't worry if you've never used GitHub before! You can actually use GitHub with
 
 ## Git 🌵 
 
-Git is a software to do version control, which means it will save any changes being done without overwriting any past work. This means that even if several people are working on the same file at the same time, each person can upload their changes to the page, and Git will save both copies. Later, they can be <b> merged </b> together without anyone losing their work. You can even go back to a previous version at any point, because Git will keep a history of every change ever made. Typically, git is used via a [terminal or command line](http://guides.beanstalkapp.com/version-control/common-git-commands.html) and stores the versions on your computer. But GitHub allows us to store the content and versions online ; plus, it adds a user interface on top of Git, which makes it possible to download and change files from your browser or your desktop, make comments, suggest fixes, etc.
+Git is a software to do version control, which means it will save any change being done without overwriting any past work. This means that even if several people are working on the same file at the same time, each person can upload their changes to the page, and Git will save both copies. Later, they can be <b> merged </b> together without anyone losing their work. You can even go back to a previous version at any point, because Git will keep a history of every change ever made. Typically, git is used via a [terminal or command line](http://guides.beanstalkapp.com/version-control/common-git-commands.html) and stores the versions on your computer. But GitHub allows us to store the content and versions online ; plus, it adds a user interface on top of Git, which makes it possible to download and change files from your browser or your desktop, make comments, suggest fixes, etc.
 
 
 ## Vocabulary 🙊 
 
 Some useful GitHub vocabulary (from [this guide](https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/))
 
-**Markdown**: A way to write text files so that they are rendered beautifully on Github without the hastle of using `html`. For instance, if you start a line with `# This is a title`, it will be rendered by Github as a Top-level title (as `# Github at cc-ai : getting started 🥋`). If you add a `#` it will be displayed as a secondary title (as `## Vocabulary 🙊 `) and so on until `###### minor title`. Including links is extremely easy too! `[website](https://website.com)` will be rendered like this: [website](https://website.com). These special text files have a `.md` extension. On GitHub if there is a `Readme.md` file in the current folder you're looking into, it will be automatically rendered. If you click on a specific `.md` file, it will also be rendered. To see the `raw` text, before rendering, you can just click on the `raw` button (no shit...). Remember: Markdown is easy, ask for help if you're stuck with something. In the mean time, [**checkout this cheatsheet to learn in 2 minutes how to use Markdown**](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+**Markdown**: A way to write text files so that they are rendered beautifully on Github without the hassle of using `html`. For instance, if you start a line with `# This is a title`, it will be rendered by Github as a Top-level title (as `# Github at cc-ai : getting started 🥋`). If you add a `#` it will be displayed as a secondary title (as `## Vocabulary 🙊 `) and so on until `###### minor title`. Including links is extremely easy too! `[website](https://website.com)` will be rendered like this: [website](https://website.com). These special text files have a `.md` extension. On GitHub if there is a `Readme.md` file in the current folder you're looking into, it will be automatically rendered. If you click on a specific `.md` file, it will also be rendered. To see the `raw` text, before rendering, you can just click on the `raw` button (no shit...). Remember: Markdown is easy, ask for help if you're stuck with something. In the mean time, [**checkout this cheatsheet to learn in 2 minutes how to use Markdown**](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 <p align="center"><img alt="editting a readme" src="https://media.giphy.com/media/TKifS1eBNfEud7jQuy/giphy.gif"/></p>
 
@@ -35,9 +35,9 @@ Some useful GitHub vocabulary (from [this guide](https://readwrite.com/2013/09/3
 
 - **Tracking progress:** Even if the task that you are working on doesn't involve coding (e.g. literature review, experimental testing, etc.), it's useful for the rest of the team to know that you are working on a certain task (or issue), and what the progress on it is: whether it is open, closed, in progress, pending, etc. We will do this via the Kanban: https://github.com/cc-ai/kdb/projects/4 
 
-- **Sharing resources:** A section of the repository is dedicated specifically to sharing common resources : https://github.com/cc-ai/kdb/tree/master/resources. These can be research papres, code, news articles, tools, etc. If you encounter something useful in your literature review (or even during your spare time!), add it to the resource section! 
+- **Sharing resources:** A section of the repository is dedicated specifically to sharing common resources : https://github.com/cc-ai/kdb/tree/master/resources. These can be research papers, code, news articles, tools, etc. If you encounter something useful in your literature review (or even during your spare time!), add it to the resource section! 
 
-- **Sharing ideas:**  If you see an open ticket that is labelled as "help wanted", or if you simply have an idea about a task that someone else is working on, don't hesitate to leave a comment on the issue: it can help open a discussion and generate new ideas! 
+- **Sharing ideas:**  If you see an open ticket that is labeled as "help wanted", or if you simply have an idea about a task that someone else is working on, don't hesitate to leave a comment on the issue: it can help open a discussion and generate new ideas! 
 
 - **Collaborating with external contributors:** We are lucky enough to have a group of people interested in CCAI, who want to help us with different tasks depending on their domain of expertise: UI design, front-end development, economics.. the sky is the limit! To make this collaboration as smooth as possible, we want to give them specific tasks and ways to help us, check in with progress, ask questions, etc. GitHub is the place to do this!  
 
@@ -55,7 +55,7 @@ Some useful GitHub vocabulary (from [this guide](https://readwrite.com/2013/09/3
 
 ### Adding a paper from a pdf
 
-If you can simply add a link to this pdf, it's better as it makes the hole repository heavier for others to sync with. But if you can't and want to share the file, here's how to:
+If you can simply add a link to this pdf, it's better as it makes the whole repository heavier for others to sync with. But if you can't and want to share the file, here's how to:
 
 - Host it elsewhere (Google Drive or something)
 - Host it on the repository
@@ -74,7 +74,7 @@ If you can simply add a link to this pdf, it's better as it makes the hole repos
 
 Remember, issues are used to track problems, open discussions about a topic or simply create a task to be done. Basic use cases include:
 
-- Getting people's opinion on a matter (like victo did for the who's who -> [see #39](https://github.com/cc-ai/kdb/issues/39))
+- Getting people's opinion on a matter (like Victor did for the who's who -> [see #39](https://github.com/cc-ai/kdb/issues/39))
 - Signaling a bug in some code (unexpected behavior, error in execution, installation issues and so on)
 - Reminding yourself (and possibly others) about something to be done (like the example issue below -> [see #43](https://github.com/cc-ai/kdb/issues/43) )
 
