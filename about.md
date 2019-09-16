@@ -36,19 +36,4 @@ Goal: is flooded or not.
 
 ![munit ccai](https://i.postimg.cc/sDKWCfRJ/Capture-d-e-cran-2019-09-16-a-09-27-38.png)
 
-<div class="row">
-  <div class="column">
-    <img src="./results/house2flood/output013.jpg" alt="Snow" style="width:100%" width="300">
-  </div>
-  <div class="column">
-    <img src="./results/house2flood/48cjABBpw7KOlHr7CF5NCwback.png" alt="Forest" style="width:25%" width="300">
-  </div>
-</div>
-<div class="row">
-  <div class="column">
-    <img src="./results/house2flood/output014.jpg" alt="Snow" style="width:100%" width="300">
-  </div>
-  <div class="column">
-    <img src="./results/house2flood/lUe1NopJ06oT4267RwDs0Aback.png" alt="Forest" style="width:25%" width="300">
-  </div>
-</div>
+![munit flood](https://github.com/cc-ai/MUNIT/blob/master/results/house2flood/lUe1NopJ06oT4267RwDs0Aback.png?raw=true) ![munit flood](https://github.com/cc-ai/MUNIT/blob/master/results/house2flood/output014.jpg?raw=true) ![munit flood](https://github.com/cc-ai/MUNIT/blob/master/results/house2flood/48cjABBpw7KOlHr7CF5NCwback.png?raw=true) ![munit flood](https://github.com/cc-ai/MUNIT/blob/master/results/house2flood/output013.jpg?raw=true)
