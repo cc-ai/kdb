@@ -41,8 +41,16 @@ Goal: is flooded or not.
 
 ![munit ccai](https://i.postimg.cc/sDKWCfRJ/Capture-d-e-cran-2019-09-16-a-09-27-38.png)
 
-![munit flood](https://github.com/cc-ai/MUNIT/blob/master/results/house2flood/lUe1NopJ06oT4267RwDs0Aback.png?raw=true) ![munit flood](https://github.com/cc-ai/MUNIT/blob/master/results/house2flood/output014.jpg?raw=true) ![munit flood](https://github.com/cc-ai/MUNIT/blob/master/results/house2flood/48cjABBpw7KOlHr7CF5NCwback.png?raw=true) ![munit flood](https://github.com/cc-ai/MUNIT/blob/master/results/house2flood/output013.jpg?raw=true)
+<p float="left">
+  <img src="https://mila.quebec/wp-content/uploads/2019/09/2-1.jpg" width="410" />
+  <img src="https://mila.quebec/wp-content/uploads/2019/09/2_after-1.jpg" width="410" />
+</p>
 
+
+<p float="left">
+  <img src="https://mila.quebec/wp-content/uploads/2019/09/1-1.jpg" width="410" />
+  <img src="https://mila.quebec/wp-content/uploads/2019/09/1_after-1.jpg" width="410" />
+</p>
 ## Going Further
 
 ### More data: using simulations
