@@ -23,12 +23,13 @@ Depending on whether or not there's a likelihood of increased flood risk, run a 
 
 ## Climate Backend
 
-Goal: is flooded or not.
+Frequency of occurence for different return periods under the +1.5 scenario. Color map illustrate the new return period for a given location (for instance from ~ every 20 years to ~ every 15 years for green areas in the second plot)
 
+![Flooding frequency 1.5 degree scenario](https://i.postimg.cc/qRwrtb0V/flooding-1deg5-scenario.jpg)
 
 
 ## Visualizations
-![Flooding frequency 1.5 degree scenario](https://github.com/cc-ai/kdb/blob/master/resources/images/flooding-1deg5-scenario.png) | ![Flooding frequency 2 degrees scenario](https://github.com/cc-ai/kdb/blob/master/resources/images/flooding-2deg-scenario.png)
+
 ### Unsupervised image to image translation
 
 ![cyclegan horse zebra](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/blob/master/imgs/horse2zebra.gif?raw=true)
