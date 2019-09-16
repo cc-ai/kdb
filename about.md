@@ -28,6 +28,6 @@ Unsupervised image to image translation
 
 ![cyclegan horse zebra](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/blob/master/imgs/horse2zebra.gif)
 
-![cyclagan yosemite](https://postimg.cc/phwfBT2T)
+![cyclagan yosemite](https://i.postimg.cc/T1wtfLFr/Capture-d-e-cran-2019-09-16-a-09-24-53.png)
 
-![munit ccai](https://postimg.cc/RN6hcBh3)
+![munit ccai](https://i.postimg.cc/sDKWCfRJ/Capture-d-e-cran-2019-09-16-a-09-27-38.png)
