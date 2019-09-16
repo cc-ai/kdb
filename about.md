@@ -28,7 +28,7 @@ Goal: is flooded or not.
 
 
 ## Visualizations
-
+![Flooding frequency 1.5 degree scenario](https://github.com/cc-ai/kdb/blob/master/resources/images/flooding-1deg5-scenario.png) | ![Flooding frequency 2 degrees scenario](https://github.com/cc-ai/kdb/blob/master/resources/images/flooding-2deg-scenario.png)
 ### Unsupervised image to image translation
 
 ![cyclegan horse zebra](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/blob/master/imgs/horse2zebra.gif?raw=true)
