@@ -53,9 +53,11 @@ In case you stumbled upon this repository inadvertently, here is our story.
 
 The VICC project is an interdisciplinary project aimed at creating images of accurate, vivid, and personalized outcomes of climate change. Our goal is to use cutting-edge machine learning techniques to produce images of how neighborhoods and houses will look like following the effects of global warming. By creating a more visceral understanding of the effects of climate change, we aim to strengthen public support for necessary actions and motivate people to make impactful decisions. As a prototype, we first focus on modeling flood consequences on homes.
 
-For a more detailed motivation explanation, read through our [2 pages executive summary](https://docs.google.com/document/d/1WQtugSBgMVB-i0RhgCg_qaP7WDj7aimWvpZytKTEqY4/edit)
+For a more detailed motivation explanation, read through our [2 page executive summary](https://docs.google.com/document/d/1WQtugSBgMVB-i0RhgCg_qaP7WDj7aimWvpZytKTEqY4/edit)
 
-Also, you might be interested in our ICLR 2019 Ai For Social Good workshop [paper](https://aiforsocialgood.github.io/iclr2019/accepted/track1/pdfs/24_aisg_iclr2019.pdf)
+Also, you might be interested in our ICLR 2019 AI For Social Good workshop [paper](https://aiforsocialgood.github.io/iclr2019/accepted/track1/pdfs/24_aisg_iclr2019.pdf)
+
+For recent results, check out our [page on the Mila website](https://mila.quebec/en/ai-society/visualizing-climate-change/)
 
 ## Contact ✉️
 
