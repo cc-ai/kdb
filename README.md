@@ -1,7 +1,7 @@
 
 <img align="center" src="https://i.postimg.cc/cLJGvwyw/visceralizing-cc.png" alt="logo"></img>
 
-<h3 align="center">Visualizing the Impact of Climate Change: A Shared Knowledge Database</h3>
+<h3 align="center">Visualizing the Impacts of Climate Change: A Shared Knowledge Database</h3>
 
 <p align="center">🌎 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌍&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌏</p>
 
@@ -11,7 +11,7 @@ Don't know what this is about? Check out the [About section](https://github.com/
 
 ## How to use 📃
 
-This repository is the CCAI project's knowledge database. We use it to:
+This repository is the VICC project's knowledge database. We use it to:
 
 * Store [resources](/resources) (code, tools, news articles and so on)
 * Distribute tasks according to specific [domains](/domains)
@@ -49,9 +49,9 @@ Add yourself to our [Who's Who?](workflow/whoswho.md) if you plan on contributin
 
 ## About 💡
 
-In case you stumbled upon this repository inadvertantly, here is our story.
+In case you stumbled upon this repository inadvertently, here is our story.
 
-The CCAI project is an interdisciplinary project aimed at creating images of accurate, vivid, and personalized outcomes of climate change. Our goal is to use cutting-edge machine learning techniques to produce images of how neighborhoods and houses will look like following the effects of global warming. By creating a more visceral understanding of the effects of climate change, we aim to strengthen public support for necessary actions and motivate people to make impactful decisions. As a prototype, we first focus on modeling flood consequences on homes.
+The VICC project is an interdisciplinary project aimed at creating images of accurate, vivid, and personalized outcomes of climate change. Our goal is to use cutting-edge machine learning techniques to produce images of how neighborhoods and houses will look like following the effects of global warming. By creating a more visceral understanding of the effects of climate change, we aim to strengthen public support for necessary actions and motivate people to make impactful decisions. As a prototype, we first focus on modeling flood consequences on homes.
 
 For a more detailed motivation explanation, read through our [2 pages executive summary](https://docs.google.com/document/d/1WQtugSBgMVB-i0RhgCg_qaP7WDj7aimWvpZytKTEqY4/edit)
 
