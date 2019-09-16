@@ -23,3 +23,11 @@ Goal: is flooded or not.
 
 
 ## Visualizations
+
+Unsupervised image to image translation
+
+![cyclegan horse zebra](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/blob/master/imgs/horse2zebra.gif)
+
+![cyclagan yosemite](https://postimg.cc/phwfBT2T)
+
+![munit ccai](https://postimg.cc/RN6hcBh3)
