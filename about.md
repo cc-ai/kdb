@@ -51,6 +51,7 @@ Goal: is flooded or not.
   <img src="https://mila.quebec/wp-content/uploads/2019/09/1-1.jpg" width="410" />
   <img src="https://mila.quebec/wp-content/uploads/2019/09/1_after-1.jpg" width="410" />
 </p>
+
 ## Going Further
 
 ### More data: using simulations
