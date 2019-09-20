@@ -1,4 +1,6 @@
 # Visualizing the Consequences of Climate Change with AI
+
+*by Yoshua Bengio and Jennifer Chayes*
  
 ## Executive Summary
 
