@@ -1,6 +1,6 @@
 # VICC in practice
 
-Visualizing the consequences of Climate Change is the primary goal of this project. Here's what we're working towards. For more details, read the Executive Summary.
+Visualizing the consequences of Climate Change is the primary goal of this project. Here's what we're working towards. For more details, read the [Executive Summary](https://github.com/cc-ai/kdb/blob/master/exective_summary.md).
 
 ## Website
 
