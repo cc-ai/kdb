@@ -4,6 +4,22 @@ These are the most relevant papers, do add the ones you like too!
 
 We're also building a more exhaustive list on Zotero. [Join our team](https://www.zotero.org/groups/2291580/ccai) and share your papers there too :)
 
+/!\ Re-organization in progress!! (victor: 18-03-202)
+
+## GANs
+
+### HD
+
+## Image-to-Image translation
+
+## Normalizations
+
+## Domain Adaptation
+
+## Geometric approach
+
+---
+
 ## ML
 
 * [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/pdf/1703.10593.pdf)
