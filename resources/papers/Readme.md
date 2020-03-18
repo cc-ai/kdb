@@ -21,12 +21,13 @@ These are the most relevant papers, do add the ones you like too!
 ## ML
 
 * [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/pdf/1703.10593.pdf)
-* [Unsupervised Attention-guided Image-to-Image Translation](https://arxiv.org/abs/1806.02311)
+* [Multimodal Unsupervised Image-to-Image Translation](https://arxiv.org/pdf/1804.04732.pdf)
 * [Semantic Image Synthesis with Spatially-Adaptive Normalization](https://arxiv.org/abs/1903.07291)
 * [A Closed-form Solution to Photorealistic Image Stylization](https://arxiv.org/abs/1802.06474)
 * [Image-to-image translation for cross-domain disentanglement](https://arxiv.org/abs/1805.09730)
 * [InstaGAN: Instance-aware image-to-image translation](https://openreview.net/pdf?id=ryxwJhC9YX)
 * [Semantic Image Synthesis with Spatially-Adaptive Normalization](https://arxiv.org/abs/1903.07291)
+* [FiLM: Visual Reasoning with a General Conditioning Layer](https://arxiv.org/pdf/1709.07871.pdf)
 
 ## Domain Adaptation 
 
