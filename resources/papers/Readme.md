@@ -2,8 +2,6 @@
 
 These are the most relevant papers, do add the ones you like too!
 
-We're also building a more exhaustive list on Zotero. [Join our team](https://www.zotero.org/groups/2291580/ccai) and share your papers there too :)
-
 /!\ Re-organization in progress!! (victor: 18-03-202)
 
 ## GANs
