@@ -15,14 +15,15 @@ Consider using [ArxivTools](https://github.com/vict0rsch/ArxivTools) to easily g
 
 1. [[1703.10593] Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593)
 2. [[1711.11586] Toward Multimodal Image-to-Image Translation](https://arxiv.org/abs/1711.11586)
-3. [[1804.04732] Multimodal Unsupervised Image-to-Image Translation](https://arxiv.org/abs/1804.04732)
-4. [[1703.06868] Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization](https://arxiv.org/abs/1703.06868)
-5. [[1903.07291] Semantic Image Synthesis with Spatially-Adaptive Normalization](https://arxiv.org/abs/1903.07291)
-6. [[1812.10889] InstaGAN: Instance-aware Image-to-Image Translation](https://arxiv.org/abs/1812.10889)
-7. [[1709.07871] FiLM: Visual Reasoning with a General Conditioning Layer](https://arxiv.org/abs/1709.07871)
-8. [[1802.06474] A Closed-form Solution to Photorealistic Image Stylization](https://arxiv.org/abs/1802.06474)
-9. [[1805.09730] Image-to-image translation for cross-domain disentanglement](https://arxiv.org/abs/1805.09730)
-10. [[2003.06221] Semantic Pyramid for Image Generation](https://arxiv.org/abs/2003.06221)
+3. [[1703.00848] Unsupervised Image-to-image Translation Networks](https://arxiv.org/abs/1703.00848) ([github](https://github.com/mingyuliutw/UNIT))
+4. [[1804.04732] Multimodal Unsupervised Image-to-Image Translation](https://arxiv.org/abs/1804.04732)
+5. [[1703.06868] Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization](https://arxiv.org/abs/1703.06868)
+6. [[1903.07291] Semantic Image Synthesis with Spatially-Adaptive Normalization](https://arxiv.org/abs/1903.07291)
+7. [[1812.10889] InstaGAN: Instance-aware Image-to-Image Translation](https://arxiv.org/abs/1812.10889)
+8. [[1709.07871] FiLM: Visual Reasoning with a General Conditioning Layer](https://arxiv.org/abs/1709.07871)
+9. [[1802.06474] A Closed-form Solution to Photorealistic Image Stylization](https://arxiv.org/abs/1802.06474)
+10. [[1805.09730] Image-to-image translation for cross-domain disentanglement](https://arxiv.org/abs/1805.09730)
+11. [[2003.06221] Semantic Pyramid for Image Generation](https://arxiv.org/abs/2003.06221)
 
 ### B. HD
 
