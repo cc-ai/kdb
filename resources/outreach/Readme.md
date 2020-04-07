@@ -9,3 +9,4 @@ A folder to store outreach documents and presentations.
 * [ITU presentation: AI Commons](https://docs.google.com/presentation/d/17Mmt1nb6Nv_AkqZho-QxBQ4HQaKS2eEn5tkqbZ9CRps/edit?usp=sharing) (Victor Schmidt) (05/19)
 * [[1910.10143] Establishing an Evaluation Metric to Quantify Climate Change Image Realism](https://arxiv.org/abs/1910.10143)
 * [[2001.09531] Using Simulated Data to Generate Images of Climate Change](https://arxiv.org/abs/2001.09531)
+* [[2004.00161] Towards Lifelong Self-Supervision For Unpaired Image-to-Image Translation](https://arxiv.org/abs/2004.00161)
