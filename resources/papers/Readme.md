@@ -11,26 +11,26 @@ Consider using [ArxivTools](https://github.com/vict0rsch/ArxivTools) to easily g
 ## GANs
 
 1. [[1406.2661] Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) ([github](https://github.com/goodfeli/adversarial))
-2. [[1411.1784] Conditional Generative Adversarial Nets](https://arxiv.org/abs/1411.1784) 
+2. [[1411.1784] Conditional Generative Adversarial Nets](https://arxiv.org/abs/1411.1784)
 3. [[1511.06434] Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434) ([github](https://github.com/Newmu/dcgan_code))
-4. [[1606.00709] f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization](https://arxiv.org/abs/1606.00709) 
+4. [[1606.00709] f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization](https://arxiv.org/abs/1606.00709)
 5. [[1701.07875v2] Wasserstein GAN](https://arxiv.org/abs/1701.07875v2) ([github](https://github.com/martinarjovsky/WassersteinGAN))
-6. [[1611.07004] Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004) ([github](https://github.com/phillipi/pix2pix))
 
 
 ## A. Image-to-Image translation
 
-1. [[1703.10593] Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593)
-2. [[1711.11586] Toward Multimodal Image-to-Image Translation](https://arxiv.org/abs/1711.11586)
-3. [[1703.00848] Unsupervised Image-to-image Translation Networks](https://arxiv.org/abs/1703.00848) ([github](https://github.com/mingyuliutw/UNIT))
-4. [[1804.04732] Multimodal Unsupervised Image-to-Image Translation](https://arxiv.org/abs/1804.04732)
-5. [[1703.06868] Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization](https://arxiv.org/abs/1703.06868)
-6. [[1903.07291] Semantic Image Synthesis with Spatially-Adaptive Normalization](https://arxiv.org/abs/1903.07291)
-7. [[1812.10889] InstaGAN: Instance-aware Image-to-Image Translation](https://arxiv.org/abs/1812.10889)
-8. [[1709.07871] FiLM: Visual Reasoning with a General Conditioning Layer](https://arxiv.org/abs/1709.07871)
-9. [[1802.06474] A Closed-form Solution to Photorealistic Image Stylization](https://arxiv.org/abs/1802.06474)
-10. [[1805.09730] Image-to-image translation for cross-domain disentanglement](https://arxiv.org/abs/1805.09730)
-11. [[2003.06221] Semantic Pyramid for Image Generation](https://arxiv.org/abs/2003.06221)
+1. [[1611.07004] Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004) ([github](https://github.com/phillipi/pix2pix))
+2. [[1703.10593] Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593)
+3. [[1711.11586] Toward Multimodal Image-to-Image Translation](https://arxiv.org/abs/1711.11586)
+4. [[1703.00848] Unsupervised Image-to-image Translation Networks](https://arxiv.org/abs/1703.00848) ([github](https://github.com/mingyuliutw/UNIT))
+5. [[1804.04732] Multimodal Unsupervised Image-to-Image Translation](https://arxiv.org/abs/1804.04732)
+6. [[1703.06868] Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization](https://arxiv.org/abs/1703.06868)
+7. [[1903.07291] Semantic Image Synthesis with Spatially-Adaptive Normalization](https://arxiv.org/abs/1903.07291)
+8. [[1812.10889] InstaGAN: Instance-aware Image-to-Image Translation](https://arxiv.org/abs/1812.10889)
+9. [[1709.07871] FiLM: Visual Reasoning with a General Conditioning Layer](https://arxiv.org/abs/1709.07871)
+10. [[1802.06474] A Closed-form Solution to Photorealistic Image Stylization](https://arxiv.org/abs/1802.06474)
+11. [[1805.09730] Image-to-image translation for cross-domain disentanglement](https://arxiv.org/abs/1805.09730)
+12. [[2003.06221] Semantic Pyramid for Image Generation](https://arxiv.org/abs/2003.06221)
 
 ### B. HD
 
