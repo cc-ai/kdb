@@ -10,6 +10,13 @@ Consider using [ArxivTools](https://github.com/vict0rsch/ArxivTools) to easily g
 
 ## GANs
 
+1. [[1406.2661] Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) ([github](https://github.com/goodfeli/adversarial))
+2. [[1411.1784] Conditional Generative Adversarial Nets](https://arxiv.org/abs/1411.1784) 
+3. [[1511.06434] Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434) ([github](https://github.com/Newmu/dcgan_code))
+4. [[1606.00709] f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization](https://arxiv.org/abs/1606.00709) 
+5. [[1701.07875v2] Wasserstein GAN](https://arxiv.org/abs/1701.07875v2) ([github](https://github.com/martinarjovsky/WassersteinGAN))
+6. [[1611.07004] Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004) ([github](https://github.com/phillipi/pix2pix))
+
 
 ## A. Image-to-Image translation
 
