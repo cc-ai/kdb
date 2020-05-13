@@ -1,7 +1,12 @@
+&nbsp; 
 
 <h1 align="center">Visualizing the Impacts of Climate Change: A Shared Knowledge Database</h1>
 
+&nbsp; 
+
 <p align="center">🌎 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌍&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌏</p>
+
+&nbsp; 
 
 Welcome! Have a look at this Home page to better understand how you can contribute to the project. 
 
