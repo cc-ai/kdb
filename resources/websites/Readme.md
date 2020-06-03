@@ -11,7 +11,7 @@
 * [Climate atlas](https://climateatlas.ca) : Interactive climate change related data in Canada, and showing videos regarding the current actions.
 * [States at Risks](https://reportcard.statesatrisk.org/): Report cards of different states in US, including different hazards that they are dealing with, and if they are taking actions.
 
-* [Vancouver flood plain](http://floodplain.ca/): Using a historical event documentary as introduction and a breif insight into the future. And then showing flood maps. (Altghou as they say in the discalimer, it is kind of inaccurate the way they are presenting)
+* [Vancouver flood plain](http://floodplain.ca/): Using a historical event documentary as introduction and a breif insight into the future. And then showing flood maps. (although as they say in the discalimer, it is kind of inaccurate the way they are presenting)
 
 ## UX inspiration
 
